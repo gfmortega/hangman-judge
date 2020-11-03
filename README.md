@@ -1,7 +1,7 @@
 # hangman-judge
 Judge Interactor program for a Hangman contest held for the Ateneo Senior High School Programming Varsity.  You need to have Java Runtime Environment 8 or higher in order to run this.
 
-Run the program through the command line/terminal by entering, "java -jar Judge.jar"
+Run the player program through the command line/terminal by entering, `java -jar Judge.jar`
 Then, input the your program's file name and extension when prompted.  The following file extensions are supported,
 
     File Extension          Process Run
@@ -11,9 +11,9 @@ Then, input the your program's file name and extension when prompted.  The follo
     fileName.exe           fileName.exe
     fileName.out           ./fileName.out
     
-Ensure that this file is in the same directory as the .jar file.
+Ensure that the player program is in the same directory as the `Judge.jar` file.
 
-Since the I/O of this problem is can be quite a lot, the interaction between the Judge and the Player is recorded in the file "log.txt".
+Since the I/O of this problem can be quite a lot, the interaction between the Judge and the Player is recorded in the file `log.txt`.
 
 The Judge currently is set to ask all words contained in `word_bank.txt` so if you want to test against custom words, that is the file to edit.
 
