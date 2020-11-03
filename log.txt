@@ -1,0 +1,11722 @@
+JUDGE           PLAYER
+500
+*********
+                ASK e
+*e*******
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK t
+*e******t
+                ASK n
+*e*****nt
+                ASK a
+*ea***ant
+                ASK s
+MISS
+                ASK u
+MISS
+                ASK p
+*ea*p*ant
+                ASK l
+lea*plant
+                ASK d
+leadplant
+                ANSWER leadplant
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+***a*a**
+                ASK r
+MISS
+                ASK t
+***ata*t
+                ASK n
+***atant
+                ASK l
+**latant
+                ASK i
+*ilatant
+                ASK d
+dilatant
+                ANSWER dilatant
+GOOD
+**************
+                ASK i
+*********i*i**
+                ASK t
+****t*t**i*it*
+                ASK y
+****t*t**i*ity
+                ASK x
+****t*t*xi*ity
+                ASK p
+**p*t*t*xi*ity
+                ASK o
+**p*totoxi*ity
+                ASK h
+h*p*totoxi*ity
+                ASK e
+hep*totoxi*ity
+                ASK c
+hep*totoxicity
+                ASK a
+hepatotoxicity
+                ANSWER hepatotoxicity
+GOOD
+***************
+                ASK i
+******i**i*****
+                ASK c
+******i**ic****
+                ASK t
+******i*tic****
+                ASK a
+******i*tica***
+                ASK y
+******i*tica**y
+                ASK l
+******i*tically
+                ASK s
+******istically
+                ASK n
+n*n**nistically
+                ASK o
+non*onistically
+                ASK m
+nonmonistically
+                ANSWER nonmonistically
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+******a
+                ASK i
+*****ia
+                ASK r
+**r**ia
+                ASK p
+p*r**ia
+                ASK y
+p*ry*ia
+                ASK h
+phry*ia
+                ASK g
+phrygia
+                ANSWER phrygia
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+***i*****
+                ASK a
+***i***a*
+                ASK l
+MISS
+                ASK r
+***i**ra*
+                ASK t
+MISS
+                ASK s
+s**i**ra*
+                ASK m
+s**i**ram
+                ASK o
+so*io*ram
+                ASK g
+so*iogram
+                ASK c
+sociogram
+                ANSWER sociogram
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK r
+MISS
+                ASK i
+***i**
+                ASK n
+***in*
+                ASK g
+***ing
+                ASK o
+MISS
+                ASK l
+l**ing
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK u
+MISS
+                ASK s
+l*sing
+                ASK y
+lysing
+                ANSWER lysing
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+MISS
+                ASK s
+*****es
+                ASK i
+****ies
+                ASK a
+MISS
+                ASK o
+MISS
+                ASK d
+MISS
+                ASK l
+MISS
+                ASK t
+MISS
+                ASK u
+*u**ies
+                ASK b
+MISS
+                ASK n
+*un*ies
+                ASK p
+pun*ies
+                ASK k
+punkies
+                ANSWER punkies
+GOOD
+*************
+                ASK i
+*********i***
+                ASK e
+*********i**e
+                ASK a
+*******a*i*ae
+                ASK d
+*******a*idae
+                ASK o
+***o*o*a*idae
+                ASK t
+***o*o*atidae
+                ASK s
+***oso*atidae
+                ASK m
+***osomatidae
+                ASK y
+*y*osomatidae
+                ASK r
+*yrosomatidae
+                ASK p
+pyrosomatidae
+                ANSWER pyrosomatidae
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK o
+MISS
+                ASK s
+MISS
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK t
+t***
+                ASK u
+tu**
+                ASK n
+MISS
+                ASK k
+MISS
+                ASK p
+MISS
+                ASK m
+MISS
+                ASK f
+tuff
+                ANSWER tuff
+GOOD
+********
+                ASK e
+**e***e*
+                ASK r
+*re***e*
+                ASK p
+pre***e*
+                ASK d
+pre***ed
+                ASK i
+MISS
+                ASK t
+pre**ted
+                ASK a
+pre*ated
+                ASK m
+premated
+                ANSWER premated
+GOOD
+***********
+                ASK e
+***e*****e*
+                ASK r
+***e***r*e*
+                ASK d
+MISS
+                ASK a
+***e**ar*e*
+                ASK t
+***e*tar*e*
+                ASK s
+**se*tar*es
+                ASK n
+*nse*tar*es
+                ASK i
+inse*taries
+                ASK c
+insectaries
+                ANSWER insectaries
+GOOD
+**********
+                ASK e
+***e*e****
+                ASK r
+***ere****
+                ASK n
+***eren***
+                ASK l
+***eren*l*
+                ASK y
+***eren*ly
+                ASK t
+***erently
+                ASK h
+**herently
+                ASK o
+MISS
+                ASK i
+MISS
+                ASK d
+*dherently
+                ASK a
+adherently
+                ANSWER adherently
+GOOD
+*****
+                ASK a
+***a*
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK s
+s**a*
+                ASK e
+MISS
+                ASK t
+st*a*
+                ASK o
+stoa*
+                ASK i
+stoai
+                ANSWER stoai
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK d
+******ed
+                ASK n
+*****ned
+                ASK a
+MISS
+                ASK o
+*o***ned
+                ASK c
+co***ned
+                ASK m
+co**mned
+                ASK u
+co*umned
+                ASK l
+columned
+                ANSWER columned
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+*****ess
+                ASK l
+****less
+                ASK a
+*a**less
+                ASK t
+MISS
+                ASK r
+*ar*less
+                ASK w
+MISS
+                ASK k
+*arkless
+                ASK m
+MISS
+                ASK b
+barkless
+                ANSWER barkless
+GOOD
+***********
+                ASK e
+***e****e**
+                ASK n
+***e***ne**
+                ASK s
+***e**sness
+                ASK u
+***e*usness
+                ASK o
+***eousness
+                ASK g
+MISS
+                ASK a
+MISS
+                ASK t
+**teousness
+                ASK p
+p*teousness
+                ASK i
+piteousness
+                ANSWER piteousness
+GOOD
+*******
+                ASK e
+******e
+                ASK a
+****a*e
+                ASK t
+MISS
+                ASK r
+***ra*e
+                ASK g
+**gra*e
+                ASK v
+MISS
+                ASK n
+*ngra*e
+                ASK u
+ungra*e
+                ASK c
+ungrace
+                ANSWER ungrace
+GOOD
+*************
+                ASK i
+*********i***
+                ASK e
+MISS
+                ASK a
+*********i*a*
+                ASK l
+******l**i*al
+                ASK c
+***c**l**ical
+                ASK o
+**oc*olo*ical
+                ASK t
+**octolo*ical
+                ASK r
+*roctolo*ical
+                ASK p
+proctolo*ical
+                ASK g
+proctological
+                ANSWER proctological
+GOOD
+*****
+                ASK a
+a*a**
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK e
+MISS
+                ASK t
+a*at*
+                ASK i
+MISS
+                ASK g
+MISS
+                ASK y
+a*aty
+                ASK d
+adaty
+                ANSWER adaty
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+MISS
+                ASK r
+****r
+                ASK o
+MISS
+                ASK i
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK u
+u**ur
+                ASK n
+un*ur
+                ASK f
+unfur
+                ANSWER unfur
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+MISS
+                ASK r
+*r***
+                ASK i
+MISS
+                ASK o
+MISS
+                ASK t
+MISS
+                ASK c
+MISS
+                ASK n
+MISS
+                ASK g
+*r*g*
+                ASK d
+MISS
+                ASK b
+br*g*
+                ASK h
+br*gh
+                ASK u
+brugh
+                ANSWER brugh
+GOOD
+*********
+                ASK e
+***e**e**
+                ASK s
+***e**ess
+                ASK n
+MISS
+                ASK l
+***e*less
+                ASK r
+***erless
+                ASK o
+MISS
+                ASK w
+MISS
+                ASK t
+MISS
+                ASK v
+MISS
+                ASK i
+MISS
+                ASK u
+MISS
+                ASK d
+MISS
+                ASK b
+b**erless
+                ASK k
+b*kerless
+                ASK a
+bakerless
+                ANSWER bakerless
+GOOD
+************
+                ASK i
+**i****i*i**
+                ASK t
+MISS
+                ASK n
+**in***i*in*
+                ASK u
+MISS
+                ASK g
+**in***i*ing
+                ASK b
+**in***ibing
+                ASK s
+**ins**ibing
+                ASK r
+r*ins*ribing
+                ASK e
+reins*ribing
+                ASK c
+reinscribing
+                ANSWER reinscribing
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+***e***e**e*
+                ASK r
+***er*re**e*
+                ASK n
+MISS
+                ASK d
+MISS
+                ASK s
+***er*resses
+                ASK w
+w**er*resses
+                ASK t
+w*ter*resses
+                ASK c
+w*tercresses
+                ASK a
+watercresses
+                ANSWER watercresses
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+****i***i**
+                ASK t
+MISS
+                ASK n
+****i**ni**
+                ASK a
+****i*ani**
+                ASK m
+****i*ani*m
+                ASK s
+****i*anism
+                ASK l
+***li*anism
+                ASK g
+MISS
+                ASK c
+***licanism
+                ASK u
+*u*licanism
+                ASK p
+pu*licanism
+                ASK b
+publicanism
+                ANSWER publicanism
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK a
+***a***e*
+                ASK i
+MISS
+                ASK d
+***a***ed
+                ASK n
+*n*an**ed
+                ASK u
+un*an**ed
+                ASK l
+un*an*led
+                ASK g
+un*angled
+                ASK t
+MISS
+                ASK m
+unmangled
+                ANSWER unmangled
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+***e***e*e**
+                ASK n
+***e***ene**
+                ASK s
+***e***eness
+                ASK l
+***e**leness
+                ASK b
+***e*bleness
+                ASK a
+*a*eableness
+                ASK t
+*ateableness
+                ASK r
+rateableness
+                ANSWER rateableness
+GOOD
+***********
+                ASK e
+***e******e
+                ASK i
+i**e******e
+                ASK r
+i**er****re
+                ASK t
+i*ter****re
+                ASK n
+inter****re
+                ASK s
+inter*ss*re
+                ASK u
+inter*ssure
+                ASK a
+interassure
+                ANSWER interassure
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+**a**a**
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK s
+**a*sa**
+                ASK n
+MISS
+                ASK l
+**alsa**
+                ASK o
+*oalsa**
+                ASK k
+*oalsa*k
+                ASK c
+coalsack
+                ANSWER coalsack
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+*a*a*****a*
+                ASK r
+*ara*****a*
+                ASK p
+MISS
+                ASK l
+*ara*****al
+                ASK c
+cara*****al
+                ASK u
+cara**u**al
+                ASK s
+cara**ussal
+                ASK o
+cara*oussal
+                ASK m
+caramoussal
+                ANSWER caramoussal
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+****a***
+                ASK r
+***ra***
+                ASK t
+MISS
+                ASK s
+***ra**s
+                ASK n
+MISS
+                ASK i
+***ra*is
+                ASK u
+MISS
+                ASK o
+*oora*is
+                ASK w
+woora*is
+                ASK l
+wooralis
+                ANSWER wooralis
+GOOD
+***********
+                ASK e
+e*****e**e*
+                ASK s
+e*****e**es
+                ASK c
+e****ce**es
+                ASK r
+e**r*cer*es
+                ASK m
+em*r*cer*es
+                ASK i
+em*r*ceries
+                ASK b
+embr*ceries
+                ASK a
+embraceries
+                ANSWER embraceries
+GOOD
+**********
+                ASK e
+*e********
+                ASK r
+re********
+                ASK i
+re*i*i*i**
+                ASK v
+re*i*ivi**
+                ASK d
+re*idivi**
+                ASK c
+recidivi**
+                ASK t
+recidivi*t
+                ASK s
+recidivist
+                ANSWER recidivist
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+******a*
+                ASK n
+MISS
+                ASK i
+MISS
+                ASK r
+**r***a*
+                ASK o
+*or***a*
+                ASK l
+*orl**a*
+                ASK w
+worl*wa*
+                ASK y
+worl*way
+                ASK d
+worldway
+                ANSWER worldway
+GOOD
+*******
+                ASK e
+***e***
+                ASK a
+a**e***
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+a**en**
+                ASK i
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK c
+a**enc*
+                ASK d
+MISS
+                ASK y
+MISS
+                ASK h
+a**ench
+                ASK u
+a*uench
+                ASK q
+aquench
+                ANSWER aquench
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+******rer
+                ASK a
+*a****rer
+                ASK u
+*a***urer
+                ASK o
+*a**ourer
+                ASK b
+*a*bourer
+                ASK t
+ta*bourer
+                ASK m
+tambourer
+                ANSWER tambourer
+GOOD
+**************
+                ASK i
+******i*******
+                ASK e
+******i****e**
+                ASK n
+*n****i***ne**
+                ASK s
+*ns***i***ness
+                ASK u
+uns***i***ness
+                ASK o
+MISS
+                ASK p
+MISS
+                ASK t
+unst**i**tness
+                ASK r
+unstr*i**tness
+                ASK h
+unstr*i*htness
+                ASK g
+unstr*ightness
+                ASK a
+unstraightness
+                ANSWER unstraightness
+GOOD
+*************
+                ASK i
+i***i***i*i**
+                ASK t
+i***i***i*it*
+                ASK y
+i***i***i*ity
+                ASK n
+in**i***i*ity
+                ASK l
+in**i***ility
+                ASK b
+in**i**bility
+                ASK a
+in**i*ability
+                ASK m
+MISS
+                ASK x
+MISS
+                ASK v
+MISS
+                ASK s
+ins*i*ability
+                ASK r
+ins*irability
+                ASK p
+inspirability
+                ANSWER inspirability
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+****i*****
+                ASK a
+*a**i*a***
+                ASK c
+*a*ci*a***
+                ASK n
+*a*cina***
+                ASK t
+*a*cinat**
+                ASK s
+*ascinat**
+                ASK f
+fascinat**
+                ASK r
+fascinat*r
+                ASK o
+fascinator
+                ANSWER fascinator
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+***i****
+                ASK n
+***in***
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK l
+***in*l*
+                ASK y
+***in*ly
+                ASK g
+***ingly
+                ASK o
+*o*ingly
+                ASK p
+po*ingly
+                ASK k
+pokingly
+                ANSWER pokingly
+GOOD
+*************
+                ASK i
+*********i***
+                ASK e
+***e**e**i***
+                ASK r
+***er*e*ri***
+                ASK y
+*y*er*e*ri***
+                ASK t
+*y*er*etri***
+                ASK p
+*yper*etri***
+                ASK m
+*ypermetri***
+                ASK l
+*ypermetri**l
+                ASK h
+hypermetri**l
+                ASK c
+hypermetric*l
+                ASK a
+hypermetrical
+                ANSWER hypermetrical
+GOOD
+**********
+                ASK e
+********e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK i
+*******ie*
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK o
+*****o*ie*
+                ASK l
+**ll*o*ie*
+                ASK u
+*ull*o*ie*
+                ASK f
+full*o*ie*
+                ASK d
+full*odied
+                ASK b
+fullbodied
+                ANSWER fullbodied
+GOOD
+********
+                ASK e
+*e****e*
+                ASK r
+re****e*
+                ASK d
+re****ed
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK l
+rel***ed
+                ASK t
+rel**ted
+                ASK c
+rel*cted
+                ASK u
+relucted
+                ANSWER relucted
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+******n*
+                ASK g
+MISS
+                ASK t
+******nt
+                ASK m
+m*****nt
+                ASK o
+m**o*ont
+                ASK d
+m**odont
+                ASK y
+my*odont
+                ASK l
+mylodont
+                ANSWER mylodont
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+*****ess
+                ASK l
+l****ess
+                ASK n
+l***ness
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK o
+loo*ness
+                ASK f
+loofness
+                ANSWER loofness
+GOOD
+**********
+                ASK e
+********e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK i
+******i*e*
+                ASK d
+MISS
+                ASK a
+****a*i*e*
+                ASK l
+MISS
+                ASK z
+MISS
+                ASK n
+n*n*a*ine*
+                ASK t
+n*n*a*inet
+                ASK o
+non*a*inet
+                ASK c
+nonca*inet
+                ASK b
+noncabinet
+                ANSWER noncabinet
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+s****ess
+                ASK l
+s***less
+                ASK a
+s*a*less
+                ASK t
+MISS
+                ASK p
+MISS
+                ASK y
+s*ayless
+                ASK w
+swayless
+                ANSWER swayless
+GOOD
+******
+                ASK e
+*****e
+                ASK a
+*a***e
+                ASK l
+*a*l*e
+                ASK i
+*a*lie
+                ASK u
+MISS
+                ASK w
+MISS
+                ASK s
+MISS
+                ASK r
+*arlie
+                ASK c
+carlie
+                ANSWER carlie
+GOOD
+*************
+                ASK i
+MISS
+                ASK e
+*******e***e*
+                ASK r
+MISS
+                ASK a
+******ae**aea
+                ASK u
+******aeu*aea
+                ASK t
+*t****aeu*aea
+                ASK s
+st****aeu*aea
+                ASK o
+sto*o*aeu*aea
+                ASK m
+stomo*aeu*aea
+                ASK d
+stomodaeudaea
+                ANSWER stomodaeudaea
+GOOD
+*************
+                ASK i
+i************
+                ASK n
+in***********
+                ASK t
+int******t***
+                ASK r
+int*rr***t*r*
+                ASK o
+int*rro**tor*
+                ASK g
+int*rrog*tor*
+                ASK e
+interrog*tor*
+                ASK a
+interrogator*
+                ASK y
+interrogatory
+                ANSWER interrogatory
+GOOD
+*************
+                ASK i
+***********i*
+                ASK o
+*****o*****i*
+                ASK c
+*****o*****ic
+                ASK r
+*****o****ric
+                ASK e
+**e**o****ric
+                ASK s
+**e**o**s*ric
+                ASK t
+**e**o**stric
+                ASK g
+**e**og*stric
+                ASK a
+**e**ogastric
+                ASK u
+**eu*ogastric
+                ASK p
+p*eu*ogastric
+                ASK n
+pneu*ogastric
+                ASK m
+pneumogastric
+                ANSWER pneumogastric
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+*a***a*
+                ASK n
+*an**a*
+                ASK d
+MISS
+                ASK m
+MISS
+                ASK t
+MISS
+                ASK s
+MISS
+                ASK l
+*an**al
+                ASK i
+*ani*al
+                ASK c
+*anical
+                ASK p
+panical
+                ANSWER panical
+GOOD
+******
+                ASK e
+*e**e*
+                ASK r
+MISS
+                ASK d
+de**ed
+                ASK n
+denned
+                ANSWER denned
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+*e***
+                ASK s
+*e**s
+                ASK t
+*et*s
+                ASK m
+met*s
+                ASK u
+MISS
+                ASK i
+metis
+                ANSWER metis
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*****a**
+                ASK r
+**r**ar*
+                ASK d
+MISS
+                ASK o
+MISS
+                ASK y
+y*r**ar*
+                ASK u
+yuru*ar*
+                ASK c
+yurucar*
+                ASK i
+yurucari
+                ANSWER yurucari
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+*a**a*
+                ASK n
+MISS
+                ASK r
+ra**a*
+                ASK d
+MISS
+                ASK l
+MISS
+                ASK g
+MISS
+                ASK t
+ra**at
+                ASK y
+ra*yat
+                ASK i
+raiyat
+                ANSWER raiyat
+GOOD
+************
+                ASK i
+*i*i**i*****
+                ASK t
+ti*i**i*****
+                ASK u
+ti*i**i*u***
+                ASK r
+ti*i**i*u**r
+                ASK o
+ti*io*i*u**r
+                ASK l
+ti*io*i*ul*r
+                ASK f
+ti*iofi*ul*r
+                ASK b
+tibiofibul*r
+                ASK a
+tibiofibular
+                ANSWER tibiofibular
+GOOD
+***************
+                ASK i
+*************i*
+                ASK o
+*****o**o****i*
+                ASK s
+*s***os*o****i*
+                ASK y
+*s***os*o**y*i*
+                ASK t
+*st**os*o**y*i*
+                ASK r
+*st*ros*o**y*i*
+                ASK p
+*st*rospo**y*i*
+                ASK n
+*st*rospon*y*i*
+                ASK l
+*st*rospon*yli*
+                ASK e
+*sterospon*yli*
+                ASK d
+*sterospondyli*
+                ASK c
+*sterospondylic
+                ASK a
+asterospondylic
+                ANSWER asterospondylic
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+*****er
+                ASK i
+**i**er
+                ASK t
+t*itter
+                ASK w
+twitter
+                ANSWER twitter
+GOOD
+************
+                ASK i
+i****i***i**
+                ASK t
+i*t**i**ti**
+                ASK n
+int**i**ti*n
+                ASK o
+into*i**tion
+                ASK x
+intoxi**tion
+                ASK c
+intoxic*tion
+                ASK a
+intoxication
+                ANSWER intoxication
+GOOD
+**********
+                ASK e
+*****e*e**
+                ASK s
+*****e*ess
+                ASK n
+***n*e*ess
+                ASK l
+***n*eless
+                ASK g
+MISS
+                ASK c
+c**nceless
+                ASK h
+ch*nceless
+                ASK a
+chanceless
+                ANSWER chanceless
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+****i**i***
+                ASK l
+****illi***
+                ASK n
+****illi*n*
+                ASK t
+t**tilli*n*
+                ASK s
+t**tilli*ns
+                ASK r
+t*rtilli*ns
+                ASK o
+tortillions
+                ANSWER tortillions
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+*i**i**i**
+                ASK n
+*i**i**in*
+                ASK g
+*i**i**ing
+                ASK f
+MISS
+                ASK s
+*is*i**ing
+                ASK m
+mis*i**ing
+                ASK t
+MISS
+                ASK b
+misbi**ing
+                ASK l
+misbilling
+                ANSWER misbilling
+GOOD
+******
+                ASK e
+**e***
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK a
+MISS
+                ASK l
+**e*l*
+                ASK y
+**e*ly
+                ASK w
+MISS
+                ASK n
+MISS
+                ASK d
+**edly
+                ASK u
+MISS
+                ASK q
+MISS
+                ASK p
+p*edly
+                ASK i
+piedly
+                ANSWER piedly
+GOOD
+*************
+                ASK i
+*********i***
+                ASK e
+***e**e**i*e*
+                ASK r
+***erre**i*e*
+                ASK d
+**derre**i*ed
+                ASK u
+u*derre**i*ed
+                ASK n
+underre**i*ed
+                ASK l
+underre*li*ed
+                ASK a
+underreali*ed
+                ASK z
+MISS
+                ASK s
+underrealised
+                ANSWER underrealised
+GOOD
+********
+                ASK e
+*e*****e
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK a
+*e**a**e
+                ASK l
+*e**a*le
+                ASK b
+*e**able
+                ASK t
+*e*table
+                ASK s
+*estable
+                ASK n
+nestable
+                ANSWER nestable
+GOOD
+******
+                ASK e
+*e**e*
+                ASK r
+MISS
+                ASK d
+*e**ed
+                ASK l
+MISS
+                ASK a
+MISS
+                ASK n
+MISS
+                ASK s
+MISS
+                ASK t
+*etted
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK p
+MISS
+                ASK j
+MISS
+                ASK f
+MISS
+                ASK b
+betted
+                ANSWER betted
+GOOD
+*************
+                ASK i
+**i*i*****i**
+                ASK t
+t*i*i*****i**
+                ASK r
+tri*i*****i**
+                ASK l
+trili****li**
+                ASK a
+trili***ali**
+                ASK s
+trili***alis*
+                ASK m
+trili***alism
+                ASK u
+trili**ualism
+                ASK n
+trilin*ualism
+                ASK g
+trilingualism
+                ANSWER trilingualism
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK r
+**r****e
+                ASK o
+**ro***e
+                ASK n
+**ro**ne
+                ASK c
+MISS
+                ASK y
+*yro*yne
+                ASK g
+gyro*yne
+                ASK d
+gyrodyne
+                ANSWER gyrodyne
+GOOD
+***********
+                ASK e
+**e*****e**
+                ASK r
+MISS
+                ASK s
+**e*****ess
+                ASK n
+**e****ness
+                ASK l
+**e**l*ness
+                ASK i
+*ie**l*ness
+                ASK d
+*ie**ldness
+                ASK p
+pie**ldness
+                ASK b
+pieb*ldness
+                ASK a
+piebaldness
+                ANSWER piebaldness
+GOOD
+***********
+                ASK e
+**********e
+                ASK a
+***a******e
+                ASK i
+*i*a**i*i*e
+                ASK t
+*i*at*i*i*e
+                ASK v
+*i*at*i*ive
+                ASK s
+*i*at*isive
+                ASK r
+*i*atrisive
+                ASK c
+cicatrisive
+                ANSWER cicatrisive
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+**r****e*
+                ASK s
+s*r****e*
+                ASK i
+MISS
+                ASK a
+MISS
+                ASK t
+s*r****et
+                ASK l
+s*r**llet
+                ASK u
+sur*ullet
+                ASK m
+surmullet
+                ANSWER surmullet
+GOOD
+**********
+                ASK e
+******e***
+                ASK r
+MISS
+                ASK n
+*n****e***
+                ASK u
+un****e*u*
+                ASK l
+un****e*ul
+                ASK f
+un****eful
+                ASK a
+MISS
+                ASK s
+uns***eful
+                ASK t
+uns**teful
+                ASK p
+unsp*teful
+                ASK i
+unspiteful
+                ANSWER unspiteful
+GOOD
+**********
+                ASK e
+**ee**e***
+                ASK s
+s*ee**e**s
+                ASK w
+MISS
+                ASK t
+stee**e**s
+                ASK l
+steel*e**s
+                ASK h
+steelhe**s
+                ASK d
+steelhe*ds
+                ASK a
+steelheads
+                ANSWER steelheads
+GOOD
+*************
+                ASK i
+********i*i**
+                ASK t
+*******ti*it*
+                ASK y
+*******ti*ity
+                ASK v
+*******tivity
+                ASK a
+******ativity
+                ASK o
+*o****ativity
+                ASK e
+*o**e*ativity
+                ASK r
+*o*re*ativity
+                ASK l
+*o*relativity
+                ASK n
+nonrelativity
+                ANSWER nonrelativity
+GOOD
+**********
+                ASK e
+****e*e**e
+                ASK r
+**r*e*e**e
+                ASK t
+**rte*e*te
+                ASK o
+*orte*e*te
+                ASK n
+*orte*ente
+                ASK m
+*ortemente
+                ASK f
+fortemente
+                ANSWER fortemente
+GOOD
+************
+                ASK i
+*********i**
+                ASK n
+*********in*
+                ASK g
+MISS
+                ASK e
+**e******ine
+                ASK o
+MISS
+                ASK t
+MISS
+                ASK r
+*re******ine
+                ASK p
+*rep*****ine
+                ASK u
+*repu**u*ine
+                ASK s
+*repus*u*ine
+                ASK l
+*repus*uline
+                ASK c
+crepusculine
+                ANSWER crepusculine
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+*e***
+                ASK s
+MISS
+                ASK r
+re***
+                ASK i
+re*i*
+                ASK t
+MISS
+                ASK g
+MISS
+                ASK n
+re*in
+                ASK w
+MISS
+                ASK p
+repin
+                ANSWER repin
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+s***s
+                ASK i
+MISS
+                ASK o
+MISS
+                ASK t
+MISS
+                ASK u
+su**s
+                ASK r
+MISS
+                ASK d
+sudds
+                ANSWER sudds
+GOOD
+********
+                ASK e
+*e*e**e*
+                ASK r
+*e*e**er
+                ASK t
+*e*e*ter
+                ASK s
+*e*ester
+                ASK p
+*epester
+                ASK b
+bepester
+                ANSWER bepester
+GOOD
+**********
+                ASK e
+*e*****e**
+                ASK r
+*e****re**
+                ASK s
+se****ress
+                ASK t
+se***tress
+                ASK m
+MISS
+                ASK v
+MISS
+                ASK u
+se*u*tress
+                ASK d
+sedu*tress
+                ASK c
+seductress
+                ANSWER seductress
+GOOD
+*************
+                ASK i
+******i******
+                ASK n
+*n****i******
+                ASK e
+*n*e**i*****e
+                ASK r
+*n*er*i*****e
+                ASK a
+*n*er*ia****e
+                ASK u
+un*er*ia***ue
+                ASK o
+un*er*ia*o*ue
+                ASK l
+un*er*ialo*ue
+                ASK g
+un*er*ialogue
+                ASK d
+underdialogue
+                ANSWER underdialogue
+GOOD
+*************
+                ASK i
+******i***i**
+                ASK t
+******it*ti**
+                ASK a
+******itati**
+                ASK n
+n*n***itati**
+                ASK o
+non***itati**
+                ASK v
+non***itativ*
+                ASK e
+non*e*itative
+                ASK r
+nonre*itative
+                ASK c
+nonrecitative
+                ANSWER nonrecitative
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK r
+**r***
+                ASK o
+MISS
+                ASK i
+**ri**
+                ASK s
+**ris*
+                ASK h
+MISS
+                ASK t
+**rist
+                ASK u
+u*rist
+                ASK p
+uprist
+                ANSWER uprist
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+****a***
+                ASK r
+MISS
+                ASK s
+****a**s
+                ASK t
+****a*ts
+                ASK n
+****ants
+                ASK i
+**i*ants
+                ASK x
+*xi*ants
+                ASK o
+oxi*ants
+                ASK d
+oxidants
+                ANSWER oxidants
+GOOD
+***********
+                ASK e
+****e****e*
+                ASK r
+****e*r**e*
+                ASK a
+*a**e*ra*e*
+                ASK t
+*at*e*ra*e*
+                ASK h
+*athe*ra*e*
+                ASK d
+*athedra*ed
+                ASK c
+cathedra*ed
+                ASK l
+cathedraled
+                ANSWER cathedraled
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK o
+MISS
+                ASK l
+*l***
+                ASK c
+MISS
+                ASK u
+*lu**
+                ASK f
+flu**
+                ASK y
+flu*y
+                ASK t
+MISS
+                ASK k
+fluky
+                ANSWER fluky
+GOOD
+************
+                ASK i
+***i********
+                ASK e
+***i****e***
+                ASK s
+***i****e**s
+                ASK o
+***io**oe**s
+                ASK u
+***io**oe*us
+                ASK r
+**rio**oerus
+                ASK h
+**rio*hoerus
+                ASK g
+*grio*hoerus
+                ASK c
+*griochoerus
+                ASK a
+agriochoerus
+                ANSWER agriochoerus
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+*i******
+                ASK s
+*i****s*
+                ASK t
+ti****s*
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK m
+tim***s*
+                ASK o
+timo*oso
+                ASK r
+timoroso
+                ANSWER timoroso
+GOOD
+*******
+                ASK e
+*e*****
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK i
+*e**i**
+                ASK n
+*enni**
+                ASK p
+penni**
+                ASK l
+pennill
+                ANSWER pennill
+GOOD
+***********
+                ASK e
+**e*******e
+                ASK r
+**e**r****e
+                ASK t
+MISS
+                ASK o
+**e**r*o**e
+                ASK z
+**e**r*o*ze
+                ASK s
+s*e**r*o*ze
+                ASK n
+s*en*r*o*ze
+                ASK i
+s*en*rioize
+                ASK c
+scen*rioize
+                ASK a
+scenarioize
+                ANSWER scenarioize
+GOOD
+*********
+                ASK e
+*e****e**
+                ASK s
+*e****es*
+                ASK n
+MISS
+                ASK i
+MISS
+                ASK r
+re**r*es*
+                ASK h
+reh*r*es*
+                ASK a
+rehar*es*
+                ASK v
+reharves*
+                ASK t
+reharvest
+                ANSWER reharvest
+GOOD
+********
+                ASK e
+***e****
+                ASK r
+**re****
+                ASK a
+**re**a*
+                ASK s
+**res*a*
+                ASK t
+t*res*a*
+                ASK i
+MISS
+                ASK n
+MISS
+                ASK l
+t*res*al
+                ASK h
+threshal
+                ANSWER threshal
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+****a*
+                ASK n
+n**na*
+                ASK u
+MISS
+                ASK o
+MISS
+                ASK i
+ni*na*
+                ASK y
+ni*nay
+                ASK g
+nignay
+                ANSWER nignay
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+a*****
+                ASK i
+a***i*
+                ASK n
+a*n*in
+                ASK l
+aln*in
+                ASK u
+alnuin
+                ANSWER alnuin
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+******ii*
+                ASK h
+*****hii*
+                ASK n
+*****hiin
+                ASK u
+***u*hiin
+                ASK t
+*t*uthiin
+                ASK s
+st*uthiin
+                ASK r
+struthiin
+                ANSWER struthiin
+GOOD
+*******
+                ASK e
+****e**
+                ASK s
+****e*s
+                ASK r
+****ers
+                ASK a
+MISS
+                ASK o
+MISS
+                ASK l
+***lers
+                ASK i
+MISS
+                ASK u
+*u*lers
+                ASK t
+MISS
+                ASK f
+MISS
+                ASK c
+MISS
+                ASK b
+bu*lers
+                ASK g
+buglers
+                ANSWER buglers
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+****e
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK o
+*o**e
+                ASK s
+so**e
+                ASK w
+MISS
+                ASK l
+sol*e
+                ASK v
+solve
+                ANSWER solve
+GOOD
+*************
+                ASK i
+i********i***
+                ASK n
+MISS
+                ASK e
+i*e******i***
+                ASK l
+i*e******i**l
+                ASK r
+i*e**r***i**l
+                ASK p
+i*e**r*p*i**l
+                ASK o
+i*eo*r*p*i**l
+                ASK h
+i*eo*r*phi**l
+                ASK g
+i*eogr*phi**l
+                ASK d
+ideogr*phi**l
+                ASK c
+ideogr*phic*l
+                ASK a
+ideographical
+                ANSWER ideographical
+GOOD
+****************
+                ASK i
+MISS
+                ASK e
+*e***e********e*
+                ASK x
+*ex**e********e*
+                ASK t
+*ex**et*******e*
+                ASK r
+*ex**etr**r***er
+                ASK p
+*ex**etr**r*p*er
+                ASK o
+*ex**etro*r*p*er
+                ASK m
+*ex*metro*r*p*er
+                ASK h
+hex*metro*r*pher
+                ASK g
+hex*metrogr*pher
+                ASK a
+hexametrographer
+                ANSWER hexametrographer
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*a**a*a*
+                ASK n
+*an*a*a*
+                ASK l
+*an*ala*
+                ASK y
+*an*alay
+                ASK m
+man*alay
+                ASK d
+mandalay
+                ANSWER mandalay
+GOOD
+************
+                ASK i
+*****i******
+                ASK n
+MISS
+                ASK e
+*****i*e****
+                ASK s
+*****i*e***s
+                ASK o
+*****i*e*o*s
+                ASK u
+***u*i*e*ous
+                ASK r
+r**u*i*erous
+                ASK l
+r**uli*erous
+                ASK f
+r**uliferous
+                ASK a
+ra*uliferous
+                ASK m
+MISS
+                ASK d
+raduliferous
+                ANSWER raduliferous
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+s*****e*s
+                ASK r
+s*****ers
+                ASK i
+s*i***ers
+                ASK l
+s*i**lers
+                ASK n
+MISS
+                ASK w
+swi**lers
+                ASK z
+swizzlers
+                ANSWER swizzlers
+GOOD
+******
+                ASK e
+****e*
+                ASK r
+*r**e*
+                ASK a
+*ra*e*
+                ASK d
+*ra*ed
+                ASK c
+MISS
+                ASK g
+gra*ed
+                ASK z
+MISS
+                ASK y
+MISS
+                ASK v
+MISS
+                ASK t
+grated
+                ANSWER grated
+GOOD
+****
+                ASK a
+a*a*
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK d
+MISS
+                ASK g
+MISS
+                ASK y
+MISS
+                ASK s
+MISS
+                ASK m
+MISS
+                ASK w
+MISS
+                ASK t
+MISS
+                ASK p
+MISS
+                ASK b
+a*ab
+                ASK h
+ahab
+                ANSWER ahab
+GOOD
+***********
+                ASK e
+*********e*
+                ASK r
+MISS
+                ASK i
+****i****e*
+                ASK t
+****it***e*
+                ASK a
+****ita**e*
+                ASK s
+**s*ita**e*
+                ASK p
+**spita**e*
+                ASK o
+*ospita**e*
+                ASK l
+*ospital*e*
+                ASK h
+hospital*e*
+                ASK n
+hospital*en
+                ASK m
+hospitalmen
+                ANSWER hospitalmen
+GOOD
+******
+                ASK e
+****e*
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK s
+s***e*
+                ASK a
+sa**e*
+                ASK l
+salle*
+                ASK t
+sallet
+                ANSWER sallet
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+****s
+                ASK o
+*oo*s
+                ASK l
+MISS
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK p
+MISS
+                ASK m
+MISS
+                ASK k
+MISS
+                ASK f
+*oofs
+                ASK w
+MISS
+                ASK r
+MISS
+                ASK h
+MISS
+                ASK g
+MISS
+                ASK c
+coofs
+                ANSWER coofs
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+i******i**
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK o
+i***o**i**
+                ASK r
+i**ro*ri**
+                ASK u
+i**ro*riu*
+                ASK p
+i*propriu*
+                ASK m
+improprium
+                ANSWER improprium
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+*e********e*
+                ASK r
+*e****rr**e*
+                ASK o
+*e***orr*oe*
+                ASK h
+*e***orrhoe*
+                ASK a
+*e*a*orrhoea
+                ASK t
+MISS
+                ASK p
+MISS
+                ASK n
+*e*anorrhoea
+                ASK m
+me*anorrhoea
+                ASK l
+melanorrhoea
+                ANSWER melanorrhoea
+GOOD
+************
+                ASK i
+*i******i*i*
+                ASK r
+*i*****ri*i*
+                ASK t
+*i*t***ri*i*
+                ASK u
+*i*tu**ri*i*
+                ASK s
+*istu**ri*i*
+                ASK o
+*istu**rioi*
+                ASK l
+*istul*rioi*
+                ASK f
+fistul*rioi*
+                ASK d
+fistul*rioid
+                ASK a
+fistularioid
+                ANSWER fistularioid
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+*a*****
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK n
+MISS
+                ASK l
+MISS
+                ASK t
+*a****t
+                ASK o
+*a**oot
+                ASK f
+*a*foot
+                ASK w
+*awfoot
+                ASK j
+jawfoot
+                ANSWER jawfoot
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+**a*****
+                ASK s
+**a***s*
+                ASK t
+MISS
+                ASK i
+**a**is*
+                ASK h
+*ha**is*
+                ASK m
+*ha**ism
+                ASK v
+MISS
+                ASK r
+MISS
+                ASK p
+pha**ism
+                ASK l
+phallism
+                ANSWER phallism
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*a*a**a*
+                ASK n
+*a*a**an
+                ASK i
+*a*a*ian
+                ASK r
+MISS
+                ASK l
+*ala*ian
+                ASK t
+MISS
+                ASK m
+*alamian
+                ASK k
+kalamian
+                ANSWER kalamian
+GOOD
+***********
+                ASK e
+e********e*
+                ASK i
+e**i***i*e*
+                ASK u
+e**iu**i*e*
+                ASK r
+e**iur*i*e*
+                ASK o
+e**iuroi*e*
+                ASK h
+e*hiuroi*e*
+                ASK d
+e*hiuroide*
+                ASK c
+echiuroide*
+                ASK a
+echiuroidea
+                ANSWER echiuroidea
+GOOD
+*********
+                ASK e
+*e*******
+                ASK r
+MISS
+                ASK i
+*e*i*i*i*
+                ASK s
+se*i*i*i*
+                ASK m
+semi*i*i*
+                ASK n
+semini*i*
+                ASK f
+seminifi*
+                ASK c
+seminific
+                ANSWER seminific
+GOOD
+**************
+                ASK i
+i****i****i***
+                ASK n
+i****i*n**i***
+                ASK t
+i***ti*n**i***
+                ASK r
+irr*ti*n**i***
+                ASK o
+irr*tion**i***
+                ASK l
+irr*tion*li***
+                ASK e
+irr*tion*li*e*
+                ASK d
+irr*tion*li*ed
+                ASK a
+irrationali*ed
+                ASK z
+irrationalized
+                ANSWER irrationalized
+GOOD
+*****
+                ASK a
+*a*a*
+                ASK n
+MISS
+                ASK s
+MISS
+                ASK l
+MISS
+                ASK r
+*a*ar
+                ASK t
+MISS
+                ASK k
+MISS
+                ASK h
+*ahar
+                ASK m
+mahar
+                ANSWER mahar
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+**i****i**
+                ASK n
+**i**n*i**
+                ASK t
+**i**n*i*t
+                ASK s
+**i**n*ist
+                ASK h
+*hi**n*ist
+                ASK p
+phi**n*ist
+                ASK o
+phi*onoist
+                ASK l
+philonoist
+                ANSWER philonoist
+GOOD
+******
+                ASK e
+****e*
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK s
+MISS
+                ASK a
+MISS
+                ASK l
+****el
+                ASK n
+MISS
+                ASK u
+*u**el
+                ASK m
+mu**el
+                ASK v
+MISS
+                ASK t
+MISS
+                ASK i
+MISS
+                ASK h
+mu*hel
+                ASK c
+muchel
+                ANSWER muchel
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*a******
+                ASK s
+MISS
+                ASK i
+*a***i**
+                ASK n
+*a***in*
+                ASK g
+*ag**ing
+                ASK l
+lag**ing
+                ASK t
+lagt*ing
+                ASK h
+lagthing
+                ANSWER lagthing
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+****i*****
+                ASK a
+****i**a**
+                ASK t
+MISS
+                ASK r
+****i**ar*
+                ASK y
+****i**ary
+                ASK o
+*o**io*ary
+                ASK n
+*on*ionary
+                ASK c
+concionary
+                ANSWER concionary
+GOOD
+***************
+                ASK i
+***********i***
+                ASK a
+****a****a*i*a*
+                ASK l
+****a**lla*i*al
+                ASK y
+****a*ylla*i*al
+                ASK t
+t*t*a*ylla*i*al
+                ASK s
+t*t*asylla*i*al
+                ASK r
+t*trasylla*i*al
+                ASK e
+tetrasylla*i*al
+                ASK c
+tetrasylla*ical
+                ASK b
+tetrasyllabical
+                ANSWER tetrasyllabical
+GOOD
+*******
+                ASK e
+***e***
+                ASK a
+***ea**
+                ASK s
+s**ea**
+                ASK r
+MISS
+                ASK y
+s**ea*y
+                ASK u
+s*uea*y
+                ASK q
+squea*y
+                ASK m
+MISS
+                ASK k
+squeaky
+                ANSWER squeaky
+GOOD
+********
+                ASK e
+*****e*e
+                ASK n
+MISS
+                ASK a
+*a***e*e
+                ASK r
+*a***ere
+                ASK s
+*as**ere
+                ASK m
+*as*mere
+                ASK c
+cas*mere
+                ASK i
+MISS
+                ASK h
+cashmere
+                ANSWER cashmere
+GOOD
+*********
+                ASK e
+****e****
+                ASK r
+****er***
+                ASK i
+****eri**
+                ASK n
+****erin*
+                ASK g
+****ering
+                ASK t
+**ttering
+                ASK a
+MISS
+                ASK u
+MISS
+                ASK b
+MISS
+                ASK p
+MISS
+                ASK o
+*ottering
+                ASK c
+cottering
+                ANSWER cottering
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+*e**********
+                ASK r
+*e*********r
+                ASK o
+MISS
+                ASK t
+MISS
+                ASK a
+*e*a*a****ar
+                ASK x
+*exa*a****ar
+                ASK u
+*exa*a**u*ar
+                ASK s
+*exa*a*su*ar
+                ASK p
+*exa*apsu*ar
+                ASK l
+*exa*apsular
+                ASK h
+hexa*apsular
+                ASK c
+hexacapsular
+                ANSWER hexacapsular
+GOOD
+***********
+                ASK e
+*e*****e***
+                ASK r
+*e*r***e***
+                ASK t
+*e*rt**e***
+                ASK h
+he*rth*e***
+                ASK y
+he*rth*e**y
+                ASK p
+he*rthpe**y
+                ASK n
+he*rthpenny
+                ASK a
+hearthpenny
+                ANSWER hearthpenny
+GOOD
+**********
+                ASK e
+e*e**e**e*
+                ASK s
+MISS
+                ASK n
+MISS
+                ASK v
+eve**e**e*
+                ASK r
+ever*e*rer
+                ASK b
+everbe*rer
+                ASK a
+everbearer
+                ANSWER everbearer
+GOOD
+*************
+                ASK i
+*********i***
+                ASK e
+*****e***i***
+                ASK r
+*****e**ri***
+                ASK n
+n*n**en*ri*n*
+                ASK s
+n*n**en*ri*ns
+                ASK o
+non**en*ri*ns
+                ASK g
+non*gen*ri*ns
+                ASK a
+nonagenarians
+                ANSWER nonagenarians
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+********i**
+                ASK n
+MISS
+                ASK t
+***t*t**i*t
+                ASK s
+***t*t**ist
+                ASK o
+**otot**ist
+                ASK y
+**ototy*ist
+                ASK p
+p*ototypist
+                ASK h
+phototypist
+                ANSWER phototypist
+GOOD
+*************
+                ASK i
+**********i**
+                ASK t
+*****t***ti**
+                ASK n
+*****t***tin*
+                ASK g
+*****t***ting
+                ASK e
+MISS
+                ASK a
+a****t**ating
+                ASK l
+a***lt**ating
+                ASK u
+a**ultu*ating
+                ASK r
+a**ulturating
+                ASK c
+acculturating
+                ANSWER acculturating
+GOOD
+************
+                ASK i
+******i*****
+                ASK e
+****e*i***e*
+                ASK t
+****e*i**te*
+                ASK a
+****e*i*ate*
+                ASK d
+****e*i*ated
+                ASK r
+MISS
+                ASK p
+MISS
+                ASK c
+MISS
+                ASK n
+*n**e*inated
+                ASK y
+*n*ye*inated
+                ASK u
+un*ye*inated
+                ASK m
+unmye*inated
+                ASK l
+unmyelinated
+                ANSWER unmyelinated
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+****i****i*
+                ASK c
+MISS
+                ASK a
+MISS
+                ASK r
+****i*r**i*
+                ASK o
+*o**i*ro*i*
+                ASK y
+*o*yi*ro*i*
+                ASK s
+*o*yi*rosis
+                ASK p
+po*yi*rosis
+                ASK l
+polyi*rosis
+                ASK d
+polyidrosis
+                ANSWER polyidrosis
+GOOD
+**************
+                ASK i
+******i***i***
+                ASK a
+a*****i*a*i***
+                ASK t
+a****ti*ati***
+                ASK u
+a***uti*ati***
+                ASK s
+a***uti*ati**s
+                ASK o
+a***uti*atio*s
+                ASK n
+a***utinations
+                ASK l
+a**lutinations
+                ASK g
+agglutinations
+                ANSWER agglutinations
+GOOD
+*****
+                ASK a
+*a***
+                ASK s
+sa***
+                ASK e
+MISS
+                ASK i
+sa*i*
+                ASK n
+MISS
+                ASK r
+sa*ir
+                ASK m
+MISS
+                ASK b
+sabir
+                ANSWER sabir
+GOOD
+************
+                ASK i
+*******i*i**
+                ASK n
+MISS
+                ASK t
+******ti*it*
+                ASK y
+******ti*ity
+                ASK c
+***c**ti*ity
+                ASK e
+***ce*ti*ity
+                ASK v
+***ce*tivity
+                ASK p
+***ceptivity
+                ASK u
+*u*ceptivity
+                ASK s
+susceptivity
+                ANSWER susceptivity
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+******i**
+                ASK n
+******in*
+                ASK g
+******ing
+                ASK r
+*r****ing
+                ASK a
+MISS
+                ASK l
+MISS
+                ASK p
+MISS
+                ASK t
+*r*t**ing
+                ASK c
+cr*tc*ing
+                ASK h
+cr*tching
+                ASK u
+crutching
+                ANSWER crutching
+GOOD
+***********
+                ASK e
+*e*********
+                ASK i
+*e*****i*i*
+                ASK r
+*er****i*i*
+                ASK t
+*er****iti*
+                ASK p
+*er*p**iti*
+                ASK o
+*eropo*iti*
+                ASK m
+meropo*iti*
+                ASK d
+meropoditi*
+                ASK c
+meropoditic
+                ANSWER meropoditic
+GOOD
+********
+                ASK e
+*e****e*
+                ASK r
+*er**re*
+                ASK u
+MISS
+                ASK v
+ver**re*
+                ASK d
+MISS
+                ASK s
+MISS
+                ASK o
+ver*ore*
+                ASK m
+vermore*
+                ASK l
+vermorel
+                ANSWER vermorel
+GOOD
+**************
+                ASK i
+MISS
+                ASK e
+*e****e******e
+                ASK a
+*e****e****a*e
+                ASK t
+*e*t**e****ate
+                ASK x
+*ext**e****ate
+                ASK u
+*extu*e**u*ate
+                ASK s
+sextu*e**u*ate
+                ASK r
+sextu*er*u*ate
+                ASK l
+sextu*er*ulate
+                ASK c
+sextu*erculate
+                ASK b
+sextuberculate
+                ANSWER sextuberculate
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+r******e*
+                ASK d
+r******ed
+                ASK a
+ra**a**ed
+                ASK t
+MISS
+                ASK s
+ra*sa**ed
+                ASK n
+ransa**ed
+                ASK k
+ransa*ked
+                ASK c
+ransacked
+                ANSWER ransacked
+GOOD
+********
+                ASK e
+**e***e*
+                ASK r
+*re***er
+                ASK i
+MISS
+                ASK p
+MISS
+                ASK a
+MISS
+                ASK c
+MISS
+                ASK t
+tre***er
+                ASK n
+MISS
+                ASK l
+tre**ler
+                ASK m
+trem*ler
+                ASK b
+trembler
+                ANSWER trembler
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+i*****i**
+                ASK n
+in****i*n
+                ASK o
+in****ion
+                ASK t
+in***tion
+                ASK c
+MISS
+                ASK u
+MISS
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK v
+MISS
+                ASK d
+MISS
+                ASK a
+in**ation
+                ASK l
+in*lation
+                ASK f
+inflation
+                ANSWER inflation
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+***e*
+                ASK r
+MISS
+                ASK s
+s**es
+                ASK i
+MISS
+                ASK o
+so*es
+                ASK n
+MISS
+                ASK l
+soles
+                ANSWER soles
+GOOD
+*******
+                ASK e
+**e****
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK a
+**e*a**
+                ASK t
+t*e*a**
+                ASK h
+MISS
+                ASK n
+t*ena**
+                ASK l
+t*ena*l
+                ASK i
+t*enail
+                ASK o
+toenail
+                ANSWER toenail
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+******i
+                ASK r
+**r***i
+                ASK n
+MISS
+                ASK o
+MISS
+                ASK t
+MISS
+                ASK u
+*ur*u*i
+                ASK s
+sur*u*i
+                ASK l
+sur*uli
+                ASK c
+surculi
+                ANSWER surculi
+GOOD
+************
+                ASK i
+*******i****
+                ASK e
+MISS
+                ASK n
+*n**n**i*n**
+                ASK o
+*n**n**ion**
+                ASK t
+*n**n*tion**
+                ASK a
+*n**n*tiona*
+                ASK l
+*n**n*tional
+                ASK u
+un*un*tional
+                ASK f
+unfun*tional
+                ASK c
+unfunctional
+                ANSWER unfunctional
+GOOD
+***********
+                ASK e
+*********e*
+                ASK r
+r********e*
+                ASK d
+r*d******e*
+                ASK i
+r*di*****e*
+                ASK s
+r*di*****es
+                ASK o
+r*dio**o*es
+                ASK p
+r*diop*o*es
+                ASK n
+r*diop*ones
+                ASK h
+r*diophones
+                ASK a
+radiophones
+                ANSWER radiophones
+GOOD
+*********
+                ASK e
+*e**e**e*
+                ASK r
+*e**e**er
+                ASK t
+*e**e*ter
+                ASK s
+se**ester
+                ASK u
+se*uester
+                ASK q
+sequester
+                ANSWER sequester
+GOOD
+**************
+                ASK i
+********i*****
+                ASK a
+********i*a***
+                ASK l
+********i*all*
+                ASK y
+********i*ally
+                ASK c
+********ically
+                ASK t
+MISS
+                ASK o
+*o******ically
+                ASK n
+non****nically
+                ASK h
+MISS
+                ASK e
+none**enically
+                ASK u
+noneu*enically
+                ASK g
+noneugenically
+                ANSWER noneugenically
+GOOD
+******
+                ASK e
+*e****
+                ASK r
+MISS
+                ASK s
+*e**s*
+                ASK t
+MISS
+                ASK i
+MISS
+                ASK a
+MISS
+                ASK m
+MISS
+                ASK d
+de**s*
+                ASK u
+de*us*
+                ASK k
+de*usk
+                ASK h
+dehusk
+                ANSWER dehusk
+GOOD
+*********
+                ASK e
+*e****e**
+                ASK s
+*e****e*s
+                ASK r
+re**r*ers
+                ASK t
+MISS
+                ASK o
+re*or*ers
+                ASK p
+MISS
+                ASK m
+re*ormers
+                ASK f
+reformers
+                ANSWER reformers
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK o
+MISS
+                ASK s
+MISS
+                ASK i
+**i*
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK d
+*di*
+                ASK c
+MISS
+                ASK x
+xdi*
+                ASK v
+xdiv
+                ANSWER xdiv
+GOOD
+***************
+                ASK i
+***i*******i***
+                ASK a
+***i*******i*a*
+                ASK l
+MISS
+                ASK c
+c**i*******i*a*
+                ASK y
+c**i*****y*i*a*
+                ASK t
+c**i**t**y*i*a*
+                ASK r
+c**i**t*ry*i*a*
+                ASK p
+c**i*pt*ry*i*a*
+                ASK o
+co*iopt*ry*i*a*
+                ASK n
+coniopt*ry*i*a*
+                ASK g
+coniopt*rygi*a*
+                ASK e
+coniopterygi*ae
+                ASK d
+coniopterygidae
+                ANSWER coniopterygidae
+GOOD
+********
+                ASK e
+***e****
+                ASK r
+**re****
+                ASK a
+MISS
+                ASK o
+*ore****
+                ASK f
+fore****
+                ASK s
+fore***s
+                ASK g
+fore*g*s
+                ASK n
+fore*gns
+                ASK i
+foreigns
+                ANSWER foreigns
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+**a****e
+                ASK i
+**a**i*e
+                ASK t
+t*a*tite
+                ASK r
+tra*tite
+                ASK c
+tractite
+                ANSWER tractite
+GOOD
+*************
+                ASK i
+****i*****i**
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK n
+****i**n**i**
+                ASK m
+****i**n*mi**
+                ASK y
+**y*i**n*mi**
+                ASK s
+**ysi**n*mi**
+                ASK p
+p*ysi**n*mi**
+                ASK o
+p*ysio*nomi**
+                ASK h
+physio*nomi**
+                ASK g
+physiognomi**
+                ASK e
+physiognomi*e
+                ASK z
+physiognomize
+                ANSWER physiognomize
+GOOD
+***********
+                ASK e
+*********e*
+                ASK r
+MISS
+                ASK i
+*****i***e*
+                ASK t
+MISS
+                ASK d
+*****id**e*
+                ASK a
+a*a**ida*ea
+                ASK s
+a*as*ida*ea
+                ASK p
+a*aspida*ea
+                ASK n
+anaspida*ea
+                ASK c
+anaspidacea
+                ANSWER anaspidacea
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+*i**i*i*e
+                ASK d
+*i**idi*e
+                ASK z
+*i**idize
+                ASK v
+MISS
+                ASK u
+MISS
+                ASK t
+*it*idize
+                ASK r
+*itridize
+                ASK n
+nitridize
+                ANSWER nitridize
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+a*a***
+                ASK n
+MISS
+                ASK i
+MISS
+                ASK s
+MISS
+                ASK t
+a*a**t
+                ASK u
+MISS
+                ASK l
+MISS
+                ASK b
+aba**t
+                ASK o
+aba*ot
+                ASK c
+abacot
+                ANSWER abacot
+GOOD
+*****
+                ASK a
+*a***
+                ASK s
+MISS
+                ASK e
+*a*e*
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK l
+MISS
+                ASK t
+ta*e*
+                ASK p
+tape*
+                ASK n
+tapen
+                ANSWER tapen
+GOOD
+******
+                ASK e
+*****e
+                ASK a
+MISS
+                ASK i
+****ie
+                ASK o
+*o**ie
+                ASK t
+*ot*ie
+                ASK s
+MISS
+                ASK p
+potpie
+                ANSWER potpie
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+***e
+                ASK i
+MISS
+                ASK o
+*o*e
+                ASK r
+MISS
+                ASK l
+lo*e
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK t
+MISS
+                ASK s
+MISS
+                ASK p
+MISS
+                ASK n
+MISS
+                ASK k
+MISS
+                ASK g
+MISS
+                ASK d
+lode
+                ANSWER lode
+GOOD
+******
+                ASK e
+***ee*
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK a
+*a*ee*
+                ASK k
+*akee*
+                ASK l
+*akeel
+                ASK w
+MISS
+                ASK v
+vakeel
+                ANSWER vakeel
+GOOD
+**
+                ASK s
+MISS
+                ASK a
+*a
+                ASK z
+MISS
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK t
+MISS
+                ASK r
+MISS
+                ASK p
+MISS
+                ASK n
+MISS
+                ASK m
+MISS
+                ASK l
+MISS
+                ASK k
+MISS
+                ASK j
+MISS
+                ASK i
+MISS
+                ASK h
+MISS
+                ASK g
+MISS
+                ASK f
+fa
+                ANSWER fa
+GOOD
+*******
+                ASK e
+e***e**
+                ASK s
+e***e*s
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK a
+MISS
+                ASK n
+e***ens
+                ASK x
+ex**ens
+                ASK o
+exo*ens
+                ASK g
+exogens
+                ANSWER exogens
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+*****e*s
+                ASK r
+*****ers
+                ASK a
+MISS
+                ASK l
+*l***ers
+                ASK b
+bl*bbers
+                ASK u
+blubbers
+                ANSWER blubbers
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+****r**e*
+                ASK s
+****r*se*
+                ASK i
+MISS
+                ASK o
+MISS
+                ASK p
+**p*r*se*
+                ASK a
+**p*rase*
+                ASK h
+**phrase*
+                ASK d
+**phrased
+                ASK u
+u*phrased
+                ASK n
+unphrased
+                ANSWER unphrased
+GOOD
+***********
+                ASK e
+******e*ee*
+                ASK r
+*r**r*e*ee*
+                ASK w
+*r**r*ewee*
+                ASK p
+pr**r*ewee*
+                ASK i
+pr*iriewee*
+                ASK d
+pr*irieweed
+                ASK a
+prairieweed
+                ANSWER prairieweed
+GOOD
+*************
+                ASK i
+******i***i**
+                ASK t
+MISS
+                ASK n
+******i**ni**
+                ASK r
+r*****i**ni**
+                ASK e
+re****i**ni*e
+                ASK u
+re*u**i**ni*e
+                ASK p
+repu**i**ni*e
+                ASK l
+repu*li**ni*e
+                ASK c
+repu*lic*ni*e
+                ASK b
+republic*ni*e
+                ASK a
+republicani*e
+                ASK z
+republicanize
+                ANSWER republicanize
+GOOD
+***********
+                ASK e
+*********e*
+                ASK r
+MISS
+                ASK i
+***i****ie*
+                ASK s
+s**i****ies
+                ASK t
+MISS
+                ASK o
+so*i*o**ies
+                ASK u
+so*i*o*uies
+                ASK q
+so*i*oquies
+                ASK l
+soliloquies
+                ANSWER soliloquies
+GOOD
+***************
+                ASK i
+********i******
+                ASK n
+n*n*****in**n**
+                ASK u
+n*n***u*in**n**
+                ASK t
+n*n***u*int*n**
+                ASK q
+n*n**qu*int*n**
+                ASK o
+non**qu*int*n**
+                ASK e
+non**qu*int*n*e
+                ASK c
+non*cqu*int*nce
+                ASK a
+nonacquaintance
+                ANSWER nonacquaintance
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+***e
+                ASK i
+i**e
+                ASK n
+MISS
+                ASK d
+i*de
+                ASK o
+iode
+                ANSWER iode
+GOOD
+*****
+                ASK a
+*a***
+                ASK s
+*a**s
+                ASK e
+MISS
+                ASK r
+MISS
+                ASK l
+la**s
+                ASK i
+MISS
+                ASK u
+MISS
+                ASK m
+MISS
+                ASK k
+MISS
+                ASK n
+lan*s
+                ASK d
+lands
+                ANSWER lands
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+MISS
+                ASK a
+*a****a*e
+                ASK t
+*a****ate
+                ASK l
+*a***late
+                ASK c
+ca***late
+                ASK u
+MISS
+                ASK r
+car**late
+                ASK o
+car*olate
+                ASK b
+carbolate
+                ANSWER carbolate
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+s****e*s
+                ASK r
+s****ers
+                ASK t
+s**tters
+                ASK a
+MISS
+                ASK u
+MISS
+                ASK p
+MISS
+                ASK i
+s*itters
+                ASK l
+slitters
+                ANSWER slitters
+GOOD
+******
+                ASK e
+*****e
+                ASK a
+*a***e
+                ASK l
+MISS
+                ASK i
+*a*i*e
+                ASK n
+MISS
+                ASK t
+*ati*e
+                ASK v
+*ative
+                ASK s
+MISS
+                ASK d
+dative
+                ANSWER dative
+GOOD
+***********
+                ASK e
+*e*********
+                ASK i
+*e**i***i**
+                ASK t
+*et*i**ti**
+                ASK r
+retri**ti**
+                ASK u
+retri*uti**
+                ASK b
+retributi**
+                ASK n
+retributi*n
+                ASK o
+retribution
+                ANSWER retribution
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+***a*a***
+                ASK t
+***a*a*t*
+                ASK s
+MISS
+                ASK n
+***a*ant*
+                ASK h
+h**a*anth
+                ASK c
+h**acanth
+                ASK x
+MISS
+                ASK o
+ho*acanth
+                ASK m
+homacanth
+                ANSWER homacanth
+GOOD
+**********
+                ASK e
+*********e
+                ASK i
+****i****e
+                ASK a
+****i*a**e
+                ASK l
+****i*a*le
+                ASK b
+****i*able
+                ASK n
+MISS
+                ASK r
+*r**i*able
+                ASK p
+pr**i*able
+                ASK o
+pro*i*able
+                ASK v
+provi*able
+                ASK d
+providable
+                ANSWER providable
+GOOD
+******
+                ASK e
+*e**e*
+                ASK r
+re**e*
+                ASK d
+MISS
+                ASK s
+res*es
+                ASK t
+MISS
+                ASK h
+reshes
+                ANSWER reshes
+GOOD
+********
+                ASK e
+**e*****
+                ASK r
+**e***r*
+                ASK s
+MISS
+                ASK a
+**e**ar*
+                ASK o
+MISS
+                ASK v
+MISS
+                ASK d
+MISS
+                ASK w
+**ew*ar*
+                ASK k
+**ew*ark
+                ASK h
+*hew*ark
+                ASK c
+chew*ark
+                ASK b
+chewbark
+                ANSWER chewbark
+GOOD
+****
+                ASK a
+*a**
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK t
+*att
+                ASK w
+MISS
+                ASK p
+patt
+                ANSWER patt
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+**i**i*i*
+                ASK t
+MISS
+                ASK c
+MISS
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+**in*i*in
+                ASK o
+**inoi*in
+                ASK d
+**inoidin
+                ASK u
+*uinoidin
+                ASK q
+quinoidin
+                ANSWER quinoidin
+GOOD
+******
+                ASK e
+***e**
+                ASK s
+MISS
+                ASK r
+r**e**
+                ASK a
+MISS
+                ASK t
+r**e*t
+                ASK n
+r**ent
+                ASK d
+r*dent
+                ASK o
+MISS
+                ASK i
+rident
+                ANSWER rident
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+*s****e**
+                ASK a
+*s*a**e*a
+                ASK u
+us*a**e*a
+                ASK t
+us*a*te*a
+                ASK p
+uspa*te*a
+                ASK n
+uspante*a
+                ASK c
+uspanteca
+                ANSWER uspanteca
+GOOD
+************
+                ASK i
+*****i*i*i**
+                ASK t
+*****iti*it*
+                ASK y
+*****iti*ity
+                ASK v
+*****itivity
+                ASK r
+**r**itivity
+                ASK h
+h*r**itivity
+                ASK e
+here*itivity
+                ASK d
+hereditivity
+                ANSWER hereditivity
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+a*a*a*
+                ASK n
+a*a*an
+                ASK t
+ata*an
+                ASK m
+ataman
+                ANSWER ataman
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+*******a***
+                ASK l
+*******a**l
+                ASK o
+*o**o**a*ol
+                ASK t
+*o**o*ta*ol
+                ASK s
+*o**osta*ol
+                ASK r
+*o*rosta*ol
+                ASK p
+*oprosta*ol
+                ASK n
+*oprostanol
+                ASK c
+coprostanol
+                ANSWER coprostanol
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+****re*
+                ASK d
+****red
+                ASK a
+**a*red
+                ASK i
+**aired
+                ASK u
+MISS
+                ASK t
+*taired
+                ASK s
+staired
+                ANSWER staired
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+****i**i**
+                ASK n
+****i*ni**
+                ASK s
+s***i*nis*
+                ASK t
+MISS
+                ASK o
+MISS
+                ASK a
+s*a*ianis*
+                ASK v
+s*avianis*
+                ASK m
+s*avianism
+                ASK h
+shavianism
+                ANSWER shavianism
+GOOD
+**********
+                ASK e
+e********e
+                ASK a
+e******a*e
+                ASK t
+e******ate
+                ASK i
+e**i***ate
+                ASK u
+e*ui***ate
+                ASK q
+equi***ate
+                ASK o
+equi*o*ate
+                ASK v
+MISS
+                ASK l
+equilo*ate
+                ASK b
+equilobate
+                ANSWER equilobate
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+****re*
+                ASK d
+****red
+                ASK a
+MISS
+                ASK u
+MISS
+                ASK i
+*i**red
+                ASK v
+MISS
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK l
+*il*red
+                ASK w
+wil*red
+                ASK f
+wilfred
+                ANSWER wilfred
+GOOD
+*******
+                ASK e
+**e**e*
+                ASK r
+**er*e*
+                ASK s
+**er*es
+                ASK i
+**eries
+                ASK p
+MISS
+                ASK a
+MISS
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK u
+MISS
+                ASK q
+MISS
+                ASK m
+MISS
+                ASK h
+*heries
+                ASK c
+cheries
+                ANSWER cheries
+GOOD
+*********
+                ASK e
+**ee*****
+                ASK s
+MISS
+                ASK r
+*ree***r*
+                ASK n
+MISS
+                ASK a
+MISS
+                ASK o
+*ree**or*
+                ASK t
+*ree**ort
+                ASK w
+MISS
+                ASK p
+pree**ort
+                ASK f
+preeffort
+                ANSWER preeffort
+GOOD
+****************
+                ASK i
+************i***
+                ASK o
+*o*****o****i***
+                ASK l
+*o**l**o****i**l
+                ASK u
+*o**lu*o****i**l
+                ASK t
+*o**luto***ti**l
+                ASK r
+*o**luto*r*ti**l
+                ASK p
+*o*pluto*r*ti**l
+                ASK n
+nonpluto*r*ti**l
+                ASK c
+nonplutocr*tic*l
+                ASK a
+nonplutocratical
+                ANSWER nonplutocratical
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+*i****i*
+                ASK n
+*in***i*
+                ASK s
+sin*s*i*
+                ASK u
+sinus*i*
+                ASK o
+sinusoi*
+                ASK d
+sinusoid
+                ANSWER sinusoid
+GOOD
+********
+                ASK e
+e*e****e
+                ASK t
+e*e*t*te
+                ASK a
+e*e*tate
+                ASK s
+MISS
+                ASK p
+MISS
+                ASK n
+e*entate
+                ASK d
+edentate
+                ANSWER edentate
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+MISS
+                ASK i
+*****i*e
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK r
+MISS
+                ASK o
+**o**i*e
+                ASK s
+s*o**i*e
+                ASK p
+s*op*i*e
+                ASK h
+shop*i*e
+                ASK w
+shopwi*e
+                ASK f
+shopwife
+                ANSWER shopwife
+GOOD
+*************
+                ASK i
+********i****
+                ASK t
+*******ti****
+                ASK n
+*******ti*n**
+                ASK o
+o*****otion**
+                ASK v
+ov****otion**
+                ASK r
+ov*r**otion**
+                ASK m
+ov*r*motion**
+                ASK l
+ov*r*motion*l
+                ASK e
+overemotion*l
+                ASK a
+overemotional
+                ANSWER overemotional
+GOOD
+***********
+                ASK e
+*e***e*****
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK n
+*e***en***n
+                ASK o
+MISS
+                ASK i
+*e***en*i*n
+                ASK s
+*e***ensi*n
+                ASK m
+me***ensi*n
+                ASK g
+meg**ensi*n
+                ASK a
+mega*ensian
+                ASK l
+megalensian
+                ANSWER megalensian
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+****a**
+                ASK r
+MISS
+                ASK s
+s***a**
+                ASK t
+s***at*
+                ASK u
+su**at*
+                ASK l
+sul*at*
+                ASK f
+sulfat*
+                ASK o
+sulfato
+                ANSWER sulfato
+GOOD
+********
+                ASK e
+*e**e***
+                ASK r
+re**e***
+                ASK s
+re**e**s
+                ASK t
+MISS
+                ASK c
+rec*ec*s
+                ASK k
+rec*ecks
+                ASK h
+rechecks
+                ANSWER rechecks
+GOOD
+*************
+                ASK i
+******i***i**
+                ASK t
+******i**ti**
+                ASK n
+*****ni**ti*n
+                ASK o
+****oni**tion
+                ASK a
+*a**oni*ation
+                ASK z
+MISS
+                ASK r
+*ar*oni*ation
+                ASK s
+*ar*onisation
+                ASK m
+MISS
+                ASK j
+MISS
+                ASK h
+MISS
+                ASK g
+MISS
+                ASK c
+car*onisation
+                ASK b
+carbonisation
+                ANSWER carbonisation
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+MISS
+                ASK r
+*****r****
+                ASK o
+*o***r****
+                ASK n
+*on**r****
+                ASK c
+con**r*c**
+                ASK t
+con*tr*ct*
+                ASK s
+constr*cts
+                ASK u
+constructs
+                ANSWER constructs
+GOOD
+*****
+                ASK a
+*a***
+                ASK s
+MISS
+                ASK e
+*a*e*
+                ASK r
+MISS
+                ASK d
+*a*ed
+                ASK w
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK p
+MISS
+                ASK c
+ca*ed
+                ASK v
+MISS
+                ASK n
+caned
+                ANSWER caned
+GOOD
+***************
+                ASK i
+****i*******i**
+                ASK t
+****i******tit*
+                ASK r
+****i***r**tit*
+                ASK o
+****io**r*otit*
+                ASK n
+****io**rnotit*
+                ASK l
+**l*io**rnotit*
+                ASK e
+**l*io**rnotite
+                ASK c
+c*lcioc*rnotite
+                ASK a
+calciocarnotite
+                ANSWER calciocarnotite
+GOOD
+**********
+                ASK e
+*e**e*****
+                ASK r
+*e**er****
+                ASK t
+MISS
+                ASK s
+MISS
+                ASK i
+MISS
+                ASK n
+MISS
+                ASK d
+*e**er***d
+                ASK a
+MISS
+                ASK w
+*e**erw**d
+                ASK o
+*e**erwood
+                ASK v
+MISS
+                ASK p
+pe**erwood
+                ASK k
+pe*kerwood
+                ASK c
+peckerwood
+                ANSWER peckerwood
+GOOD
+********
+                ASK e
+****e***
+                ASK r
+MISS
+                ASK a
+****ea**
+                ASK s
+MISS
+                ASK t
+****ea*t
+                ASK n
+n***eant
+                ASK u
+nu**eant
+                ASK l
+nu*leant
+                ASK c
+nucleant
+                ANSWER nucleant
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+****i******
+                ASK n
+MISS
+                ASK a
+MISS
+                ASK t
+MISS
+                ASK r
+**r*i******
+                ASK s
+**r*i***s**
+                ASK l
+**r*ill*s**
+                ASK v
+**rvill*s**
+                ASK u
+**rvill*su*
+                ASK o
+*orvillosu*
+                ASK m
+*orvillosum
+                ASK c
+corvillosum
+                ANSWER corvillosum
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+*i**i**
+                ASK n
+MISS
+                ASK s
+*is*is*
+                ASK h
+*is*ish
+                ASK w
+wis*ish
+                ASK p
+wispish
+                ANSWER wispish
+GOOD
+**********
+                ASK e
+*********e
+                ASK i
+******i**e
+                ASK a
+******i*ae
+                ASK d
+******idae
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK o
+*o****idae
+                ASK c
+*o***cidae
+                ASK m
+*om**cidae
+                ASK y
+*om*ycidae
+                ASK b
+bombycidae
+                ANSWER bombycidae
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+**a***a*
+                ASK n
+MISS
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK l
+**a*l*a*
+                ASK t
+**atl*a*
+                ASK o
+*oatloa*
+                ASK d
+*oatload
+                ASK b
+boatload
+                ANSWER boatload
+GOOD
+**********
+                ASK e
+****e*****
+                ASK r
+MISS
+                ASK i
+****e**i**
+                ASK n
+****e**in*
+                ASK g
+****e**ing
+                ASK t
+****etting
+                ASK s
+**ssetting
+                ASK u
+MISS
+                ASK o
+MISS
+                ASK m
+MISS
+                ASK c
+MISS
+                ASK b
+b*ssetting
+                ASK a
+bassetting
+                ANSWER bassetting
+GOOD
+************
+                ASK i
+i**i********
+                ASK n
+MISS
+                ASK t
+i**it***t***
+                ASK l
+illit***t*l*
+                ASK y
+illit***t*ly
+                ASK r
+illit*r*t*ly
+                ASK e
+illiter*tely
+                ASK a
+illiterately
+                ANSWER illiterately
+GOOD
+**********
+                ASK e
+e*********
+                ASK i
+e**i******
+                ASK t
+e**it*t***
+                ASK a
+e**itat***
+                ASK x
+ex*itat***
+                ASK c
+excitat***
+                ASK o
+excitato**
+                ASK y
+excitato*y
+                ASK r
+excitatory
+                ANSWER excitatory
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+**r**e*
+                ASK s
+**r**es
+                ASK i
+**r*ies
+                ASK a
+MISS
+                ASK u
+*ur*ies
+                ASK l
+MISS
+                ASK h
+MISS
+                ASK d
+MISS
+                ASK b
+bur*ies
+                ASK n
+burnies
+                ANSWER burnies
+GOOD
+*************
+                ASK i
+*i**i********
+                ASK t
+*i**i****t***
+                ASK a
+*i**i**a*t***
+                ASK x
+xi**i**a*t***
+                ASK s
+xi**i**ast***
+                ASK r
+xi**i**astr**
+                ASK p
+xip*ip*astr**
+                ASK l
+xip*iplastr**
+                ASK h
+xiphiplastr**
+                ASK o
+xiphiplastro*
+                ASK n
+xiphiplastron
+                ANSWER xiphiplastron
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+******i**
+                ASK n
+MISS
+                ASK a
+**a***i**
+                ASK s
+**a**si**
+                ASK t
+**a**sit*
+                ASK o
+**a*osit*
+                ASK y
+**a*osity
+                ASK p
+p*a*osity
+                ASK l
+pla*osity
+                ASK g
+plagosity
+                ANSWER plagosity
+GOOD
+**********
+                ASK e
+******e*e*
+                ASK r
+**r***e*er
+                ASK t
+**r***eter
+                ASK m
+**r**meter
+                ASK o
+MISS
+                ASK i
+MISS
+                ASK a
+*ara*meter
+                ASK f
+fara*meter
+                ASK d
+faradmeter
+                ANSWER faradmeter
+GOOD
+*****************
+                ASK i
+**************i**
+                ASK t
+****t******t*ti**
+                ASK u
+**u*t*****ut*ti**
+                ASK r
+**u*t*r***ut*ti**
+                ASK p
+**u*t*r**put*ti**
+                ASK o
+*ou*t*r**put*tio*
+                ASK n
+*ount*r**put*tion
+                ASK e
+*ounter*eput*tion
+                ASK d
+*ounterdeput*tion
+                ASK c
+counterdeput*tion
+                ASK a
+counterdeputation
+                ANSWER counterdeputation
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+*****e*s
+                ASK r
+*****ers
+                ASK a
+*a***ers
+                ASK l
+la***ers
+                ASK u
+MISS
+                ASK o
+la*o*ers
+                ASK y
+layo*ers
+                ASK v
+layovers
+                ANSWER layovers
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK s
+*****s*
+                ASK t
+***t*st
+                ASK o
+***tost
+                ASK u
+*u*tost
+                ASK p
+pu*tost
+                ASK l
+pultost
+                ANSWER pultost
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+*****i**e
+                ASK a
+a****i**e
+                ASK d
+ad***i**e
+                ASK l
+MISS
+                ASK t
+ad*t*i**e
+                ASK s
+adst*i**e
+                ASK r
+adstri**e
+                ASK n
+adstrin*e
+                ASK g
+adstringe
+                ANSWER adstringe
+GOOD
+****************
+                ASK i
+**********i*****
+                ASK a
+******a***i*a***
+                ASK l
+******a***i*all*
+                ASK y
+******a***i*ally
+                ASK c
+******a***ically
+                ASK o
+*o****a***ically
+                ASK n
+non***a***ically
+                ASK r
+non**ra***ically
+                ASK p
+MISS
+                ASK t
+non*trat**ically
+                ASK s
+nonstrat**ically
+                ASK g
+nonstrat*gically
+                ASK e
+nonstrategically
+                ANSWER nonstrategically
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*a******
+                ASK s
+sa******
+                ASK i
+MISS
+                ASK n
+sa***n**
+                ASK r
+sar**n**
+                ASK c
+MISS
+                ASK d
+sard*n**
+                ASK o
+sardon**
+                ASK y
+sardony*
+                ASK x
+sardonyx
+                ANSWER sardonyx
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*i****i**
+                ASK n
+MISS
+                ASK s
+*i***si**
+                ASK o
+*i**osi**
+                ASK t
+*i**osit*
+                ASK y
+*i**osity
+                ASK v
+vi**osity
+                ASK c
+MISS
+                ASK l
+villosity
+                ANSWER villosity
+GOOD
+******************
+                ASK i
+i**i*******i**i***
+                ASK u
+i**i**u****i**i***
+                ASK t
+i**i**u****i*ti***
+                ASK s
+i**i**u*s**i*ti***
+                ASK r
+i**ir*u*s*ri*ti***
+                ASK p
+i**ir*u*s*ripti***
+                ASK n
+in*ir*u*s*ripti***
+                ASK m
+in*ir*ums*ripti***
+                ASK l
+in*ir*ums*ripti*l*
+                ASK e
+in*ir*ums*ripti*le
+                ASK c
+incircumscripti*le
+                ASK b
+incircumscriptible
+                ANSWER incircumscriptible
+GOOD
+*********
+                ASK e
+*e*e*****
+                ASK r
+re*e*r***
+                ASK a
+re*ear***
+                ASK n
+re*ear*n*
+                ASK i
+re*earin*
+                ASK g
+re*earing
+                ASK w
+rewearing
+                ANSWER rewearing
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*a*****a
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK n
+*an****a
+                ASK m
+MISS
+                ASK t
+*an***ta
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK s
+*an**sta
+                ASK o
+*an*osta
+                ASK l
+lan*osta
+                ASK g
+langosta
+                ANSWER langosta
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+a****a**
+                ASK t
+MISS
+                ASK r
+a*r**a**
+                ASK i
+MISS
+                ASK o
+a*ro*a**
+                ASK g
+a*roga**
+                ASK y
+a*roga*y
+                ASK m
+a*rogamy
+                ASK c
+acrogamy
+                ANSWER acrogamy
+GOOD
+****************
+                ASK i
+**********i*****
+                ASK a
+*****a****i*a***
+                ASK l
+*****a***li*all*
+                ASK y
+*y***a***li*ally
+                ASK r
+*y**ra***li*ally
+                ASK p
+*yp*ra***li*ally
+                ASK n
+*yp*ran**li*ally
+                ASK h
+hyp*ran**li*ally
+                ASK g
+hyp*rang*li*ally
+                ASK e
+hyperangeli*ally
+                ASK c
+hyperangelically
+                ANSWER hyperangelically
+GOOD
+************
+                ASK i
+***i***i****
+                ASK t
+**ti***i****
+                ASK n
+**tin**i****
+                ASK s
+**tin**is**s
+                ASK x
+*xtin**is**s
+                ASK u
+*xtin*uis**s
+                ASK h
+*xtin*uish*s
+                ASK g
+*xtinguish*s
+                ASK e
+extinguishes
+                ANSWER extinguishes
+GOOD
+******
+                ASK e
+*e****
+                ASK r
+*e***r
+                ASK t
+te***r
+                ASK n
+ten**r
+                ASK o
+teno*r
+                ASK u
+tenour
+                ANSWER tenour
+GOOD
+***********
+                ASK e
+*****e***e*
+                ASK r
+*r***er**er
+                ASK n
+*r*n*er**er
+                ASK i
+*r*n*eri*er
+                ASK g
+gr*ngeri*er
+                ASK a
+grangeri*er
+                ASK z
+MISS
+                ASK s
+grangeriser
+                ANSWER grangeriser
+GOOD
+*************
+                ASK i
+*****i*******
+                ASK n
+*n***i*******
+                ASK u
+un***i***u***
+                ASK l
+MISS
+                ASK y
+MISS
+                ASK s
+MISS
+                ASK o
+MISS
+                ASK d
+un***i***u**d
+                ASK t
+un***i**tu**d
+                ASK r
+un**ri**tur*d
+                ASK e
+un**ri**tured
+                ASK c
+unc*ric*tured
+                ASK a
+uncaricatured
+                ANSWER uncaricatured
+GOOD
+****
+                ASK a
+**a*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK l
+*la*
+                ASK f
+fla*
+                ASK y
+MISS
+                ASK x
+MISS
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK t
+MISS
+                ASK p
+MISS
+                ASK n
+MISS
+                ASK m
+MISS
+                ASK k
+MISS
+                ASK g
+flag
+                ANSWER flag
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK s
+s*******
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK l
+s*l*****
+                ASK o
+s*l**o**
+                ASK d
+MISS
+                ASK c
+MISS
+                ASK w
+MISS
+                ASK u
+sul**o**
+                ASK p
+sulp*o**
+                ASK h
+sulpho**
+                ASK y
+sulpho*y
+                ASK f
+sulphofy
+                ANSWER sulphofy
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+MISS
+                ASK a
+***a*a**e
+                ASK l
+MISS
+                ASK b
+b**a*a**e
+                ASK c
+b**a*ac*e
+                ASK r
+br*a*acre
+                ASK o
+broa*acre
+                ASK d
+broadacre
+                ANSWER broadacre
+GOOD
+**********
+                ASK e
+*e*******e
+                ASK i
+MISS
+                ASK r
+*e******re
+                ASK s
+MISS
+                ASK o
+*e**o***re
+                ASK p
+*e**op**re
+                ASK h
+*e**oph*re
+                ASK l
+le**oph*re
+                ASK u
+leu*oph*re
+                ASK c
+leucoph*re
+                ASK y
+leucophyre
+                ANSWER leucophyre
+GOOD
+**********
+                ASK e
+*****e****
+                ASK r
+*****e***r
+                ASK a
+*****e**ar
+                ASK l
+*****ellar
+                ASK c
+MISS
+                ASK i
+MISS
+                ASK t
+****tellar
+                ASK s
+***stellar
+                ASK o
+*o*stellar
+                ASK n
+nonstellar
+                ANSWER nonstellar
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+MISS
+                ASK r
+*r****e**
+                ASK t
+*r****e*t
+                ASK i
+MISS
+                ASK p
+pr****e*t
+                ASK n
+pr****ent
+                ASK o
+pro*o*ent
+                ASK v
+pro*ovent
+                ASK m
+promovent
+                ANSWER promovent
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+s****e*s
+                ASK r
+s****ers
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK p
+MISS
+                ASK l
+MISS
+                ASK i
+s*i**ers
+                ASK n
+MISS
+                ASK k
+MISS
+                ASK h
+MISS
+                ASK w
+swi**ers
+                ASK g
+swiggers
+                ANSWER swiggers
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+MISS
+                ASK s
+**s***e*
+                ASK d
+**s***ed
+                ASK n
+MISS
+                ASK a
+**s*a*ed
+                ASK u
+MISS
+                ASK t
+MISS
+                ASK p
+**spa*ed
+                ASK c
+MISS
+                ASK y
+MISS
+                ASK m
+m*spa*ed
+                ASK i
+mispa*ed
+                ASK g
+mispaged
+                ANSWER mispaged
+GOOD
+***********
+                ASK e
+*********e*
+                ASK r
+*********er
+                ASK a
+**a******er
+                ASK t
+*ta*t****er
+                ASK s
+sta*t****er
+                ASK o
+sta*t*o**er
+                ASK l
+sta*t*ol*er
+                ASK h
+sta*thol*er
+                ASK d
+stadtholder
+                ANSWER stadtholder
+GOOD
+**********
+                ASK e
+**e****e**
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+**en***e**
+                ASK t
+**ent**e**
+                ASK o
+o*ento*e**
+                ASK m
+omento*e**
+                ASK y
+omento*e*y
+                ASK x
+omento*exy
+                ASK p
+omentopexy
+                ANSWER omentopexy
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+*a*****e
+                ASK i
+MISS
+                ASK l
+*a**l**e
+                ASK k
+*a*kl**e
+                ASK s
+MISS
+                ASK r
+*arkl**e
+                ASK w
+warkl**e
+                ASK u
+warklu*e
+                ASK m
+warklume
+                ANSWER warklume
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*****a**
+                ASK r
+**r**ar*
+                ASK d
+**r**ard
+                ASK w
+MISS
+                ASK o
+*or**ard
+                ASK y
+*or*yard
+                ASK t
+*ortyard
+                ASK h
+hortyard
+                ANSWER hortyard
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+***e*
+                ASK r
+***er
+                ASK i
+MISS
+                ASK o
+*o*er
+                ASK t
+MISS
+                ASK m
+MISS
+                ASK p
+MISS
+                ASK w
+MISS
+                ASK s
+MISS
+                ASK d
+MISS
+                ASK v
+MISS
+                ASK n
+*oner
+                ASK z
+zoner
+                ANSWER zoner
+GOOD
+*****
+                ASK a
+**a**
+                ASK s
+s*a**
+                ASK t
+MISS
+                ASK l
+s*al*
+                ASK c
+scal*
+                ASK z
+MISS
+                ASK y
+MISS
+                ASK x
+scalx
+                ANSWER scalx
+GOOD
+*********
+                ASK e
+***e*****
+                ASK r
+**re**r**
+                ASK s
+**re**r*s
+                ASK o
+**re*or*s
+                ASK w
+**rewor*s
+                ASK i
+*irewor*s
+                ASK m
+*ireworms
+                ASK f
+fireworms
+                ANSWER fireworms
+GOOD
+******************
+                ASK i
+***********i***i**
+                ASK t
+**********ti**ti**
+                ASK n
+n*n****n**ti**ti*n
+                ASK s
+n*n****n*sti**ti*n
+                ASK r
+n*n*r**n*sti**ti*n
+                ASK p
+n*npr**n*sti**ti*n
+                ASK o
+nonpro*nosti**tion
+                ASK g
+nonprognosti**tion
+                ASK c
+nonprognostic*tion
+                ASK a
+nonprognostication
+                ANSWER nonprognostication
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+*i******e
+                ASK t
+*i*****te
+                ASK a
+*i****ate
+                ASK l
+MISS
+                ASK r
+*i***rate
+                ASK p
+*ipp*rate
+                ASK u
+*ippurate
+                ASK h
+hippurate
+                ANSWER hippurate
+GOOD
+*************
+                ASK i
+******i******
+                ASK n
+*n****in*****
+                ASK e
+en****in*****
+                ASK r
+en***rin*****
+                ASK d
+end**rin*****
+                ASK o
+endo*rino****
+                ASK c
+endocrino****
+                ASK y
+MISS
+                ASK t
+endocrino**t*
+                ASK p
+endocrinop*t*
+                ASK h
+endocrinop*th
+                ASK a
+endocrinopath
+                ANSWER endocrinopath
+GOOD
+**********
+                ASK e
+****e*****
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK n
+**n*e***n*
+                ASK o
+*on*e***n*
+                ASK t
+*onte*t*nt
+                ASK s
+*ontest*nt
+                ASK c
+contest*nt
+                ASK a
+contestant
+                ANSWER contestant
+GOOD
+*********
+                ASK e
+**e******
+                ASK r
+MISS
+                ASK s
+s*e******
+                ASK t
+s*e*t****
+                ASK w
+MISS
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK l
+sle*t****
+                ASK u
+sleut****
+                ASK h
+sleuth***
+                ASK g
+sleuth**g
+                ASK o
+sleuth*og
+                ASK d
+sleuthdog
+                ANSWER sleuthdog
+GOOD
+**************
+                ASK i
+******i*****i*
+                ASK o
+***o**i*****i*
+                ASK r
+MISS
+                ASK c
+***o**i*****ic
+                ASK t
+***ot*i****tic
+                ASK n
+***ot*i**n*tic
+                ASK l
+*llot*i**n*tic
+                ASK h
+*llothi**n*tic
+                ASK g
+*llothig*n*tic
+                ASK e
+*llothigenetic
+                ASK a
+allothigenetic
+                ANSWER allothigenetic
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK o
+MISS
+                ASK s
+MISS
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK l
+**ll
+                ASK u
+*ull
+                ASK w
+MISS
+                ASK p
+MISS
+                ASK n
+MISS
+                ASK m
+mull
+                ANSWER mull
+GOOD
+*************
+                ASK i
+MISS
+                ASK e
+**********e**
+                ASK n
+**********en*
+                ASK t
+********t*ent
+                ASK m
+m*******tment
+                ASK s
+m******stment
+                ASK a
+ma*a***stment
+                ASK u
+ma*a**ustment
+                ASK l
+mala**ustment
+                ASK j
+mala*justment
+                ASK d
+maladjustment
+                ANSWER maladjustment
+GOOD
+*******
+                ASK e
+******e
+                ASK a
+*a****e
+                ASK i
+*a**i*e
+                ASK t
+MISS
+                ASK n
+*a**ine
+                ASK r
+MISS
+                ASK l
+*alline
+                ASK g
+galline
+                ANSWER galline
+GOOD
+*************
+                ASK i
+**********i**
+                ASK t
+****t*****i**
+                ASK n
+MISS
+                ASK e
+****t*e***ie*
+                ASK y
+**y*t*e***ie*
+                ASK s
+**y*t*e***ies
+                ASK r
+*ry*t*er**ies
+                ASK p
+*ry*t*er*pies
+                ASK o
+*ryot*er*pies
+                ASK h
+*ryother*pies
+                ASK c
+cryother*pies
+                ASK a
+cryotherapies
+                ANSWER cryotherapies
+GOOD
+**************
+                ASK i
+*i************
+                ASK t
+*i*******t****
+                ASK n
+*i***n***t****
+                ASK s
+*is**n***t****
+                ASK o
+*is*on***t****
+                ASK e
+*is*on*e*t**e*
+                ASK u
+*is*on*e*tu*e*
+                ASK r
+*is*on*e*ture*
+                ASK m
+mis*on*e*ture*
+                ASK j
+mis*onje*ture*
+                ASK d
+mis*onje*tured
+                ASK c
+misconjectured
+                ANSWER misconjectured
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+MISS
+                ASK s
+*******es
+                ASK i
+****i**es
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK l
+****i*les
+                ASK c
+MISS
+                ASK b
+****ibles
+                ASK n
+**n*ibles
+                ASK g
+**ngibles
+                ASK u
+*ungibles
+                ASK f
+fungibles
+                ANSWER fungibles
+GOOD
+**********
+                ASK e
+*********e
+                ASK i
+MISS
+                ASK a
+*******a*e
+                ASK t
+*******ate
+                ASK r
+****r**ate
+                ASK o
+*o**ro*ate
+                ASK p
+*o*pro*ate
+                ASK m
+*ompro*ate
+                ASK c
+compro*ate
+                ASK b
+comprobate
+                ANSWER comprobate
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+*i*i****i**
+                ASK n
+*i*i****i*n
+                ASK o
+*i*i****ion
+                ASK t
+*i*i***tion
+                ASK a
+*i*i**ation
+                ASK l
+*i*illation
+                ASK s
+si*illation
+                ASK g
+sigillation
+                ANSWER sigillation
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*******i*
+                ASK a
+*a*****i*
+                ASK c
+*a*****ic
+                ASK t
+*a**t**ic
+                ASK o
+*a**t*oic
+                ASK p
+*ap*t*oic
+                ASK n
+nap*t*oic
+                ASK h
+naphthoic
+                ANSWER naphthoic
+GOOD
+**************
+                ASK i
+****i*i****i**
+                ASK t
+****i*i***ti**
+                ASK o
+**o*i*i***tio*
+                ASK v
+**ovivi***tio*
+                ASK s
+**ovivis**tio*
+                ASK r
+*rovivis**tio*
+                ASK p
+provivis**tio*
+                ASK n
+provivis**tion
+                ASK e
+provivise*tion
+                ASK c
+provivisection
+                ANSWER provivisection
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK r
+******r
+                ASK t
+**t*t*r
+                ASK o
+*ot*tor
+                ASK u
+*otutor
+                ASK c
+cotutor
+                ANSWER cotutor
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+**i****
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK d
+MISS
+                ASK c
+c*i****
+                ASK h
+chi****
+                ASK o
+chi*o**
+                ASK k
+chi*o*k
+                ASK u
+chi*ouk
+                ASK b
+chibouk
+                ANSWER chibouk
+GOOD
+*************
+                ASK i
+*i******i*i**
+                ASK s
+si******i*i*s
+                ASK u
+si**u***i*i*s
+                ASK t
+si**u***iti*s
+                ASK r
+si**u**riti*s
+                ASK n
+sin*u**riti*s
+                ASK l
+sin*ul*riti*s
+                ASK g
+singul*riti*s
+                ASK e
+singul*rities
+                ASK a
+singularities
+                ANSWER singularities
+GOOD
+*************
+                ASK i
+***i*i*****i*
+                ASK t
+**ti*i*****i*
+                ASK s
+**ti*i***s*i*
+                ASK r
+*rti*i**rs*i*
+                ASK p
+*rti*i**rs*ip
+                ASK h
+*rti*i**rship
+                ASK f
+*rtifi**rship
+                ASK e
+*rtifi*ership
+                ASK c
+*rtificership
+                ASK a
+artificership
+                ANSWER artificership
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+*a**a*
+                ASK n
+MISS
+                ASK r
+*a**ar
+                ASK s
+MISS
+                ASK g
+*ag*ar
+                ASK m
+*agmar
+                ASK d
+dagmar
+                ANSWER dagmar
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+*i**i**
+                ASK n
+*i**in*
+                ASK g
+*i**ing
+                ASK l
+MISS
+                ASK t
+ti**ing
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK y
+MISS
+                ASK p
+MISS
+                ASK k
+MISS
+                ASK h
+MISS
+                ASK f
+tiffing
+                ANSWER tiffing
+GOOD
+**********
+                ASK e
+*********e
+                ASK i
+MISS
+                ASK a
+*a*******e
+                ASK t
+MISS
+                ASK l
+*all*****e
+                ASK o
+*allo**o*e
+                ASK p
+*allop*o*e
+                ASK h
+*allopho*e
+                ASK g
+gallopho*e
+                ASK b
+gallophobe
+                ANSWER gallophobe
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+******i*e
+                ASK t
+MISS
+                ASK a
+*****ai*e
+                ASK r
+**r**ai*e
+                ASK u
+MISS
+                ASK s
+MISS
+                ASK c
+**r*cai*e
+                ASK o
+*orocai*e
+                ASK n
+*orocaine
+                ASK b
+borocaine
+                ANSWER borocaine
+GOOD
+*******
+                ASK e
+*e*****
+                ASK r
+re*****
+                ASK s
+re****s
+                ASK a
+MISS
+                ASK i
+re***is
+                ASK v
+re*v*is
+                ASK o
+re*vois
+                ASK n
+renvois
+                ANSWER renvois
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+****i*i***
+                ASK s
+****i*i**s
+                ASK t
+t***iti**s
+                ASK r
+tr**iti**s
+                ASK o
+tr**itio*s
+                ASK d
+tr*ditio*s
+                ASK a
+traditio*s
+                ASK u
+MISS
+                ASK n
+traditions
+                ANSWER traditions
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+i***i***
+                ASK n
+in**i***
+                ASK t
+MISS
+                ASK s
+ins*i**s
+                ASK u
+ins*i*us
+                ASK o
+ins*ious
+                ASK c
+inscious
+                ANSWER inscious
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+******er
+                ASK i
+*i****er
+                ASK l
+li****er
+                ASK n
+lin***er
+                ASK t
+lin**ter
+                ASK s
+lin*ster
+                ASK k
+linkster
+                ANSWER linkster
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+****r*e*
+                ASK d
+MISS
+                ASK s
+****r*es
+                ASK i
+*i**ries
+                ASK n
+MISS
+                ASK a
+*i*aries
+                ASK c
+*icaries
+                ASK f
+ficaries
+                ANSWER ficaries
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+*******i**
+                ASK n
+*n*****in*
+                ASK g
+*n***gging
+                ASK u
+un***gging
+                ASK l
+MISS
+                ASK a
+un**agging
+                ASK r
+un*ragging
+                ASK b
+unbragging
+                ANSWER unbragging
+GOOD
+***********
+                ASK e
+*e*********
+                ASK i
+*e**i*i****
+                ASK t
+*e**i*it***
+                ASK s
+*e**isit***
+                ASK u
+*e*uisit***
+                ASK r
+re*uisit*r*
+                ASK y
+re*uisit*ry
+                ASK q
+requisit*ry
+                ASK o
+requisitory
+                ANSWER requisitory
+GOOD
+*******
+                ASK e
+******e
+                ASK a
+**a***e
+                ASK l
+**a**le
+                ASK s
+s*a**le
+                ASK t
+MISS
+                ASK p
+MISS
+                ASK c
+sca**le
+                ASK b
+sca*ble
+                ASK m
+scamble
+                ANSWER scamble
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*a****a*
+                ASK n
+*an***a*
+                ASK s
+MISS
+                ASK l
+MISS
+                ASK i
+MISS
+                ASK d
+MISS
+                ASK m
+MISS
+                ASK r
+MISS
+                ASK c
+*anc**a*
+                ASK y
+*anc**ay
+                ASK w
+*anc*way
+                ASK p
+panc*way
+                ASK h
+panchway
+                ANSWER panchway
+GOOD
+************
+                ASK i
+*i*******i**
+                ASK n
+*i*******in*
+                ASK g
+*i***g***ing
+                ASK e
+*i**eg***ing
+                ASK s
+*is*eg***ing
+                ASK m
+MISS
+                ASK b
+MISS
+                ASK t
+MISS
+                ASK r
+*isreg*r*ing
+                ASK d
+disreg*rding
+                ASK a
+disregarding
+                ANSWER disregarding
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+MISS
+                ASK s
+**ss**es
+                ASK i
+*iss**es
+                ASK m
+MISS
+                ASK v
+*iss*ves
+                ASK d
+diss*ves
+                ASK a
+dissaves
+                ANSWER dissaves
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+*a**a*
+                ASK n
+*a**an
+                ASK m
+MISS
+                ASK r
+*ar*an
+                ASK t
+MISS
+                ASK c
+MISS
+                ASK w
+MISS
+                ASK p
+MISS
+                ASK i
+MISS
+                ASK b
+MISS
+                ASK z
+*arzan
+                ASK s
+sarzan
+                ANSWER sarzan
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*i*******
+                ASK s
+*iss****s
+                ASK m
+MISS
+                ASK d
+diss****s
+                ASK v
+MISS
+                ASK u
+diss***us
+                ASK o
+disso*ous
+                ASK n
+dissonous
+                ANSWER dissonous
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+********i**
+                ASK n
+********in*
+                ASK g
+********ing
+                ASK r
+MISS
+                ASK a
+****a***ing
+                ASK l
+****all*ing
+                ASK y
+****allying
+                ASK u
+*u**allying
+                ASK t
+*ut*allying
+                ASK s
+*utsallying
+                ASK o
+outsallying
+                ANSWER outsallying
+GOOD
+*********************
+                ASK o
+****o*o****o******o**
+                ASK u
+****o*o****o******ou*
+                ASK s
+****oso****o******ous
+                ASK r
+****oso****or*****ous
+                ASK p
+p***osop***or*****ous
+                ASK l
+p**losop***or*l***ous
+                ASK i
+p*ilosop*i*or*li*ious
+                ASK h
+philosophi*or*li*ious
+                ASK g
+philosophi*or*ligious
+                ASK e
+philosophi*oreligious
+                ASK c
+philosophicoreligious
+                ANSWER philosophicoreligious
+GOOD
+***********
+                ASK e
+****e******
+                ASK r
+MISS
+                ASK n
+*n**e******
+                ASK u
+MISS
+                ASK i
+*n*ie***i**
+                ASK t
+*ntie**ti*t
+                ASK s
+*ntie**tist
+                ASK o
+*ntie*otist
+                ASK g
+*ntiegotist
+                ASK a
+antiegotist
+                ANSWER antiegotist
+GOOD
+*****
+                ASK a
+**a**
+                ASK s
+MISS
+                ASK r
+**ar*
+                ASK e
+MISS
+                ASK t
+MISS
+                ASK h
+MISS
+                ASK y
+MISS
+                ASK l
+MISS
+                ASK c
+MISS
+                ASK n
+MISS
+                ASK d
+**ard
+                ASK i
+*iard
+                ASK f
+fiard
+                ANSWER fiard
+GOOD
+***********
+                ASK e
+*e****e****
+                ASK r
+*e****e*r**
+                ASK t
+*e****etr**
+                ASK c
+ce****etr**
+                ASK n
+ce****etr*n
+                ASK p
+cep***etr*n
+                ASK o
+cep***etron
+                ASK l
+cep**letron
+                ASK h
+ceph*letron
+                ASK a
+cephaletron
+                ANSWER cephaletron
+GOOD
+***********
+                ASK e
+*e*******e*
+                ASK r
+*e***r***e*
+                ASK a
+*e***ra**e*
+                ASK p
+MISS
+                ASK t
+*e**tra**e*
+                ASK s
+se**tra**e*
+                ASK m
+sem*tra**e*
+                ASK i
+semitrai*e*
+                ASK n
+semitraine*
+                ASK d
+semitrained
+                ANSWER semitrained
+GOOD
+**************
+                ASK i
+*******i****i*
+                ASK s
+*******i***sis
+                ASK o
+*******i**osis
+                ASK r
+*******i*rosis
+                ASK h
+******hi*rosis
+                ASK d
+******hidrosis
+                ASK a
+**a***hidrosis
+                ASK y
+*ya***hidrosis
+                ASK p
+*ya**phidrosis
+                ASK n
+*yan*phidrosis
+                ASK e
+*yanephidrosis
+                ASK c
+cyanephidrosis
+                ANSWER cyanephidrosis
+GOOD
+**********
+                ASK e
+*****e*e**
+                ASK s
+MISS
+                ASK n
+*****e*en*
+                ASK t
+*****e*ent
+                ASK m
+**m**ement
+                ASK u
+MISS
+                ASK l
+**m*lement
+                ASK b
+MISS
+                ASK p
+**mplement
+                ASK o
+*omplement
+                ASK c
+complement
+                ANSWER complement
+GOOD
+************
+                ASK i
+*******i*i**
+                ASK n
+*******ini*n
+                ASK a
+*a*a***inian
+                ASK t
+*ata***inian
+                ASK r
+*atarr*inian
+                ASK h
+*atarrhinian
+                ASK c
+catarrhinian
+                ANSWER catarrhinian
+GOOD
+****************
+                ASK i
+MISS
+                ASK e
+************e***
+                ASK o
+******o*****eo**
+                ASK u
+*u**u*o*u***eou*
+                ASK t
+*u**u*o*ut**eou*
+                ASK s
+*us*u*o*ut**eous
+                ASK n
+*us*u*o*ut*neous
+                ASK m
+mus*u*o*ut*neous
+                ASK l
+mus*ulo*ut*neous
+                ASK c
+musculocut*neous
+                ASK a
+musculocutaneous
+                ANSWER musculocutaneous
+GOOD
+******
+                ASK e
+*e***e
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK l
+MISS
+                ASK t
+*e*t*e
+                ASK s
+MISS
+                ASK n
+*ent*e
+                ASK w
+MISS
+                ASK m
+ment*e
+                ASK h
+menthe
+                ANSWER menthe
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+***i*i***
+                ASK s
+***isi**s
+                ASK n
+***isi*ns
+                ASK o
+MISS
+                ASK r
+**risi*ns
+                ASK p
+p*risi*ns
+                ASK a
+parisians
+                ANSWER parisians
+GOOD
+************
+                ASK i
+*********i**
+                ASK n
+MISS
+                ASK e
+MISS
+                ASK t
+******t**i**
+                ASK a
+****a*t**ia*
+                ASK r
+****art*ria*
+                ASK l
+****art*rial
+                ASK s
+s**sart*rial
+                ASK u
+su*sart*rial
+                ASK o
+su*sartorial
+                ASK b
+subsartorial
+                ANSWER subsartorial
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK s
+s*****
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK o
+MISS
+                ASK l
+MISS
+                ASK u
+s*u***
+                ASK y
+s*u**y
+                ASK c
+MISS
+                ASK g
+s*u*gy
+                ASK d
+s*udgy
+                ASK q
+squdgy
+                ANSWER squdgy
+GOOD
+*************
+                ASK i
+**********i**
+                ASK t
+****t*****i**
+                ASK n
+**n*t*****i*n
+                ASK o
+*onot*****i*n
+                ASK m
+monot****mi*n
+                ASK l
+monot**l*mi*n
+                ASK h
+monoth*l*mi*n
+                ASK a
+monothalamian
+                ANSWER monothalamian
+GOOD
+****************
+                ASK i
+******i**i***i**
+                ASK t
+******i**i**ti**
+                ASK n
+******i**i**ti*n
+                ASK o
+***o**i**i**tion
+                ASK p
+p**o**i**i**tion
+                ASK z
+p**o**i**iz*tion
+                ASK r
+p*ro**i**iz*tion
+                ASK l
+p*ro**i*liz*tion
+                ASK h
+p*ro*hi*liz*tion
+                ASK c
+p*rochi*liz*tion
+                ASK a
+parochialization
+                ANSWER parochialization
+GOOD
+***********
+                ASK e
+*e*********
+                ASK i
+MISS
+                ASK r
+*e******r**
+                ASK a
+MISS
+                ASK t
+MISS
+                ASK o
+*e**o***ro*
+                ASK n
+*en*o***ro*
+                ASK z
+*enzo***ro*
+                ASK l
+*enzo***rol
+                ASK b
+benzo***rol
+                ASK y
+benzo*y*rol
+                ASK h
+benzohy*rol
+                ASK d
+benzohydrol
+                ANSWER benzohydrol
+GOOD
+****
+                ASK a
+**a*
+                ASK r
+MISS
+                ASK s
+s*as
+                ASK p
+spas
+                ANSWER spas
+GOOD
+**********
+                ASK e
+e*******e*
+                ASK s
+e*s*****es
+                ASK i
+e*s***i*es
+                ASK w
+e*s*w*i*es
+                ASK t
+e*stw*i*es
+                ASK r
+erstw*i*es
+                ASK l
+erstw*iles
+                ASK h
+erstwhiles
+                ANSWER erstwhiles
+GOOD
+************
+                ASK i
+**********i*
+                ASK o
+****o*o***i*
+                ASK c
+****o*o***ic
+                ASK p
+p***o*o*p*ic
+                ASK r
+p***o*orp*ic
+                ASK m
+p***omorp*ic
+                ASK h
+p***omorphic
+                ASK t
+p**tomorphic
+                ASK y
+MISS
+                ASK n
+p*ntomorphic
+                ASK a
+pantomorphic
+                ANSWER pantomorphic
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK s
+MISS
+                ASK n
+MISS
+                ASK o
+MISS
+                ASK l
+*l****
+                ASK c
+cl****
+                ASK y
+cl***y
+                ASK u
+clu**y
+                ASK m
+MISS
+                ASK p
+MISS
+                ASK k
+MISS
+                ASK b
+clubby
+                ANSWER clubby
+GOOD
+******
+                ASK e
+*e***e
+                ASK r
+re***e
+                ASK a
+MISS
+                ASK i
+re*i*e
+                ASK l
+MISS
+                ASK v
+MISS
+                ASK s
+resi*e
+                ASK z
+resize
+                ANSWER resize
+GOOD
+*****
+                ASK a
+*a*a*
+                ASK n
+MISS
+                ASK s
+*a*as
+                ASK m
+MISS
+                ASK l
+MISS
+                ASK r
+MISS
+                ASK p
+*apas
+                ASK z
+MISS
+                ASK t
+tapas
+                ANSWER tapas
+GOOD
+***********
+                ASK e
+*e*********
+                ASK i
+*e***i**i**
+                ASK n
+*e***in*i*n
+                ASK v
+*e**vin*i*n
+                ASK r
+*er*vin*i*n
+                ASK o
+*erovin*i*n
+                ASK m
+merovin*i*n
+                ASK g
+merovingi*n
+                ASK a
+merovingian
+                ANSWER merovingian
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+**a*a**e
+                ASK l
+*la*a*le
+                ASK b
+*la*able
+                ASK p
+MISS
+                ASK y
+MISS
+                ASK s
+sla*able
+                ASK k
+slakable
+                ANSWER slakable
+GOOD
+***********
+                ASK e
+**********e
+                ASK a
+MISS
+                ASK i
+********i*e
+                ASK t
+********ite
+                ASK r
+****r***ite
+                ASK o
+***or*o*ite
+                ASK s
+s**or*o*ite
+                ASK m
+s**or*omite
+                ASK l
+s**orlomite
+                ASK h
+s*horlomite
+                ASK c
+schorlomite
+                ANSWER schorlomite
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+***i***
+                ASK s
+MISS
+                ASK n
+*n*i***
+                ASK u
+un*i***
+                ASK d
+MISS
+                ASK t
+un*i*t*
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK r
+un*irt*
+                ASK h
+un*irth
+                ASK g
+ungirth
+                ANSWER ungirth
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+******e*s
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK l
+l*****e*s
+                ASK i
+MISS
+                ASK a
+la****e*s
+                ASK t
+lat***e*s
+                ASK h
+lat*h*e*s
+                ASK c
+latch*e*s
+                ASK y
+latch*eys
+                ASK k
+latchkeys
+                ANSWER latchkeys
+GOOD
+********
+                ASK e
+****e*e*
+                ASK r
+****ere*
+                ASK d
+****ered
+                ASK t
+t***ered
+                ASK i
+ti**ered
+                ASK n
+tin*ered
+                ASK k
+tinkered
+                ANSWER tinkered
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+s****e**
+                ASK r
+s****er*
+                ASK t
+s**tter*
+                ASK a
+s*atter*
+                ASK y
+s*attery
+                ASK m
+MISS
+                ASK l
+MISS
+                ASK h
+shattery
+                ANSWER shattery
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+*ee*
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK p
+MISS
+                ASK l
+*eel
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK t
+MISS
+                ASK k
+MISS
+                ASK j
+MISS
+                ASK h
+MISS
+                ASK f
+feel
+                ANSWER feel
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+*****a**
+                ASK r
+*****ar*
+                ASK d
+d****ard
+                ASK o
+do***ard
+                ASK y
+do**yard
+                ASK k
+do*kyard
+                ASK c
+dockyard
+                ANSWER dockyard
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*******i*
+                ASK a
+*a*****i*
+                ASK c
+*ac****i*
+                ASK o
+*ac**o*i*
+                ASK n
+*ac**o*in
+                ASK y
+*ac*yo*in
+                ASK r
+*acryo*in
+                ASK l
+*acryolin
+                ASK d
+dacryolin
+                ANSWER dacryolin
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+**a***
+                ASK s
+s*a***
+                ASK t
+MISS
+                ASK r
+MISS
+                ASK h
+MISS
+                ASK n
+s*a**n
+                ASK i
+s*a*in
+                ASK v
+MISS
+                ASK l
+sla*in
+                ASK k
+slakin
+                ANSWER slakin
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+****a**
+                ASK r
+MISS
+                ASK s
+**s*a**
+                ASK t
+**sta**
+                ASK n
+*nsta**
+                ASK i
+MISS
+                ASK u
+unsta**
+                ASK y
+MISS
+                ASK k
+unsta*k
+                ASK c
+unstack
+                ANSWER unstack
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+MISS
+                ASK s
+s****e*
+                ASK d
+s****ed
+                ASK t
+st***ed
+                ASK a
+MISS
+                ASK o
+MISS
+                ASK i
+sti**ed
+                ASK l
+stilled
+                ANSWER stilled
+GOOD
+*********
+                ASK e
+*e****e**
+                ASK s
+*e****e*s
+                ASK r
+*e****ers
+                ASK t
+MISS
+                ASK d
+de****ers
+                ASK i
+de*i**ers
+                ASK c
+deci**ers
+                ASK p
+decip*ers
+                ASK h
+deciphers
+                ANSWER deciphers
+GOOD
+*******
+                ASK e
+******e
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK o
+****o*e
+                ASK s
+s***o*e
+                ASK p
+s**po*e
+                ASK u
+MISS
+                ASK c
+MISS
+                ASK y
+sy*po*e
+                ASK m
+sympo*e
+                ASK d
+sympode
+                ANSWER sympode
+GOOD
+****
+                ASK a
+**a*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK l
+MISS
+                ASK e
+MISS
+                ASK n
+MISS
+                ASK t
+**at
+                ASK h
+*hat
+                ASK w
+what
+                ANSWER what
+GOOD
+*********
+                ASK e
+**e****ee
+                ASK r
+**e***ree
+                ASK p
+MISS
+                ASK d
+MISS
+                ASK c
+c*e***ree
+                ASK t
+c*e**tree
+                ASK s
+c*esstree
+                ASK h
+chesstree
+                ANSWER chesstree
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+r****e*
+                ASK s
+MISS
+                ASK i
+MISS
+                ASK d
+MISS
+                ASK a
+r**a*e*
+                ASK l
+MISS
+                ASK t
+r*ta*e*
+                ASK o
+rota*e*
+                ASK n
+rotane*
+                ASK v
+rotanev
+                ANSWER rotanev
+GOOD
+********
+                ASK e
+e*e***e*
+                ASK s
+e*e***es
+                ASK i
+MISS
+                ASK l
+e*e**les
+                ASK o
+e*e*oles
+                ASK y
+eye*oles
+                ASK h
+eyeholes
+                ANSWER eyeholes
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+a*****
+                ASK i
+MISS
+                ASK r
+ar***r
+                ASK u
+ar**ur
+                ASK o
+ar*our
+                ASK m
+MISS
+                ASK d
+ardour
+                ANSWER ardour
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK n
+**********n*
+                ASK t
+**********nt
+                ASK r
+MISS
+                ASK m
+MISS
+                ASK o
+*o*****o*ont
+                ASK y
+*o*y**yo*ont
+                ASK p
+po*yp*yo*ont
+                ASK l
+polyp*yo*ont
+                ASK h
+polyphyo*ont
+                ASK d
+polyphyodont
+                ANSWER polyphyodont
+GOOD
+***********
+                ASK e
+e*e*******e
+                ASK t
+e*e*t****te
+                ASK r
+e*e*tr***te
+                ASK o
+e*e*tro**te
+                ASK l
+ele*trol*te
+                ASK y
+ele*trolyte
+                ASK c
+electrolyte
+                ANSWER electrolyte
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+*a*******
+                ASK r
+*a****r**
+                ASK s
+*a****r*s
+                ASK o
+*a***or*s
+                ASK w
+MISS
+                ASK t
+MISS
+                ASK k
+MISS
+                ASK m
+MISS
+                ASK n
+*an**or*s
+                ASK d
+*and*ords
+                ASK l
+landlords
+                ANSWER landlords
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+***a**
+                ASK r
+r**ar*
+                ASK t
+MISS
+                ASK d
+MISS
+                ASK m
+MISS
+                ASK k
+r*kar*
+                ASK i
+rikari
+                ANSWER rikari
+GOOD
+*****
+                ASK a
+a****
+                ASK e
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK l
+a***l
+                ASK g
+MISS
+                ASK u
+a**ul
+                ASK f
+af*ul
+                ASK o
+afoul
+                ANSWER afoul
+GOOD
+******
+                ASK e
+****e*
+                ASK r
+**rre*
+                ASK a
+MISS
+                ASK l
+**rrel
+                ASK o
+*orrel
+                ASK w
+MISS
+                ASK s
+MISS
+                ASK k
+MISS
+                ASK g
+MISS
+                ASK f
+MISS
+                ASK c
+MISS
+                ASK b
+borrel
+                ANSWER borrel
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+******e*s
+                ASK r
+*****rers
+                ASK a
+MISS
+                ASK u
+****urers
+                ASK o
+*o**urers
+                ASK t
+MISS
+                ASK n
+*on*urers
+                ASK j
+*onjurers
+                ASK c
+conjurers
+                ANSWER conjurers
+GOOD
+*********
+                ASK e
+****e*e**
+                ASK s
+****e*e*s
+                ASK r
+****erers
+                ASK t
+**t*erers
+                ASK h
+**therers
+                ASK a
+MISS
+                ASK w
+MISS
+                ASK o
+*otherers
+                ASK m
+motherers
+                ANSWER motherers
+GOOD
+*********
+                ASK e
+***e*****
+                ASK r
+***er****
+                ASK n
+*n*er***n
+                ASK i
+in*er**in
+                ASK t
+inter**in
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK o
+MISS
+                ASK l
+interl*in
+                ASK a
+interlain
+                ANSWER interlain
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+**a***ae
+                ASK i
+**a*i*ae
+                ASK d
+**a*idae
+                ASK r
+MISS
+                ASK c
+c*a*idae
+                ASK h
+cha*idae
+                ASK n
+MISS
+                ASK m
+chamidae
+                ANSWER chamidae
+GOOD
+***********
+                ASK e
+e**********
+                ASK i
+e*****i*i**
+                ASK t
+MISS
+                ASK n
+e*n***i*in*
+                ASK u
+eunu**i*in*
+                ASK h
+eunu*hi*in*
+                ASK g
+eunu*hi*ing
+                ASK c
+eunuchi*ing
+                ASK z
+eunuchizing
+                ANSWER eunuchizing
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+***i**i**
+                ASK n
+***i**in*
+                ASK g
+***i**ing
+                ASK t
+MISS
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK u
+MISS
+                ASK l
+MISS
+                ASK a
+MISS
+                ASK f
+***if*ing
+                ASK y
+***ifying
+                ASK o
+*o*ifying
+                ASK m
+MISS
+                ASK d
+*odifying
+                ASK c
+codifying
+                ANSWER codifying
+GOOD
+********
+                ASK e
+****e*e*
+                ASK r
+r***e*er
+                ASK t
+r*t*eter
+                ASK h
+r*theter
+                ASK a
+ratheter
+                ANSWER ratheter
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+*a*******
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+MISS
+                ASK t
+*at******
+                ASK c
+*atc*****
+                ASK h
+*atch****
+                ASK w
+MISS
+                ASK l
+*atch**l*
+                ASK b
+MISS
+                ASK p
+patch**l*
+                ASK u
+patch*ul*
+                ASK o
+patchoul*
+                ASK y
+patchouly
+                ANSWER patchouly
+GOOD
+*********
+                ASK e
+*e*****e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK d
+*e*****ed
+                ASK t
+MISS
+                ASK a
+*ea****ed
+                ASK l
+MISS
+                ASK h
+MISS
+                ASK n
+MISS
+                ASK i
+MISS
+                ASK p
+pea****ed
+                ASK z
+MISS
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK o
+pea*o**ed
+                ASK k
+pea*o*ked
+                ASK c
+peacocked
+                ANSWER peacocked
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+e***********
+                ASK t
+MISS
+                ASK a
+e*********a*
+                ASK l
+e****l***la*
+                ASK u
+e****l**ula*
+                ASK r
+e****l**ular
+                ASK o
+e**o*lo*ular
+                ASK n
+en*o*lo*ular
+                ASK g
+en*oglo*ular
+                ASK d
+endoglo*ular
+                ASK b
+endoglobular
+                ANSWER endoglobular
+GOOD
+********
+                ASK e
+***e***e
+                ASK i
+***e*i*e
+                ASK l
+MISS
+                ASK t
+t*te*ite
+                ASK o
+tote*ite
+                ASK m
+totemite
+                ANSWER totemite
+GOOD
+*********
+                ASK e
+***e*****
+                ASK r
+***er**r*
+                ASK t
+**ter**rt
+                ASK w
+**terw*rt
+                ASK o
+**terwort
+                ASK a
+a*terwort
+                ASK s
+asterwort
+                ANSWER asterwort
+GOOD
+**********
+                ASK e
+e*******e*
+                ASK s
+e******se*
+                ASK i
+e*****ise*
+                ASK p
+MISS
+                ASK d
+e*****ised
+                ASK m
+MISS
+                ASK u
+eu*u**ised
+                ASK n
+eunu**ised
+                ASK h
+eunu*hised
+                ASK c
+eunuchised
+                ANSWER eunuchised
+GOOD
+*********
+                ASK e
+*******e*
+                ASK r
+**r****er
+                ASK a
+*ara***er
+                ASK p
+para***er
+                ASK y
+para*y*er
+                ASK l
+paraly*er
+                ASK z
+MISS
+                ASK s
+paralyser
+                ANSWER paralyser
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+*****e*s
+                ASK r
+r****e*s
+                ASK l
+MISS
+                ASK i
+MISS
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK a
+ra*a*e*s
+                ASK v
+MISS
+                ASK u
+ra*a*eus
+                ASK p
+rapa*eus
+                ASK c
+rapaceus
+                ANSWER rapaceus
+GOOD
+*********
+                ASK e
+**e******
+                ASK r
+**er*****
+                ASK o
+**ero*o**
+                ASK t
+*tero*o**
+                ASK y
+MISS
+                ASK u
+MISS
+                ASK p
+pteropo**
+                ASK d
+pteropod*
+                ASK s
+MISS
+                ASK a
+pteropoda
+                ANSWER pteropoda
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+s*****ess
+                ASK l
+s**l*less
+                ASK a
+s*al*less
+                ASK c
+MISS
+                ASK t
+stal*less
+                ASK k
+stalkless
+                ANSWER stalkless
+GOOD
+*****
+                ASK a
+*a***
+                ASK s
+*a**s
+                ASK e
+MISS
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK m
+*am*s
+                ASK p
+MISS
+                ASK u
+*amus
+                ASK w
+wamus
+                ANSWER wamus
+GOOD
+*******
+                ASK e
+*e****e
+                ASK r
+re****e
+                ASK a
+re**a*e
+                ASK s
+re**ase
+                ASK h
+MISS
+                ASK p
+MISS
+                ASK n
+rennase
+                ANSWER rennase
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+**i***i*e
+                ASK t
+**i**ti*e
+                ASK a
+**i*ati*e
+                ASK v
+MISS
+                ASK r
+MISS
+                ASK p
+MISS
+                ASK c
+c*i*ati*e
+                ASK z
+c*i*atize
+                ASK m
+c*imatize
+                ASK l
+climatize
+                ANSWER climatize
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+MISS
+                ASK s
+****s*e*
+                ASK t
+****ste*
+                ASK a
+***aste*
+                ASK d
+***asted
+                ASK u
+u**asted
+                ASK n
+un*asted
+                ASK w
+MISS
+                ASK p
+unpasted
+                ANSWER unpasted
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+i*****i*
+                ASK s
+MISS
+                ASK o
+i**o**i*
+                ASK n
+in*o**in
+                ASK f
+in*offin
+                ASK c
+incoffin
+                ANSWER incoffin
+GOOD
+*************
+                ASK i
+MISS
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK n
+n*n**n*n*****
+                ASK o
+non**non**o**
+                ASK y
+non*ynony*o**
+                ASK u
+non*ynony*ou*
+                ASK s
+nonsynony*ous
+                ASK m
+nonsynonymous
+                ANSWER nonsynonymous
+GOOD
+*****
+                ASK a
+a****
+                ASK e
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK l
+MISS
+                ASK n
+ann**
+                ASK u
+MISS
+                ASK t
+ann*t
+                ASK o
+annot
+                ANSWER annot
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+MISS
+                ASK a
+******a*e
+                ASK t
+MISS
+                ASK r
+*****ra*e
+                ASK o
+MISS
+                ASK g
+MISS
+                ASK c
+****cra*e
+                ASK s
+s**scra*e
+                ASK y
+s*yscra*e
+                ASK p
+s*yscrape
+                ASK k
+skyscrape
+                ANSWER skyscrape
+GOOD
+***************
+                ASK i
+**i***i********
+                ASK t
+**i***i*t******
+                ASK s
+**i***ist******
+                ASK y
+**i***ist*****y
+                ASK l
+**il**ist*****y
+                ASK r
+**il*rist**r**y
+                ASK p
+p*il*rist**r**y
+                ASK o
+p*il*risto*r**y
+                ASK h
+phil*risto*r**y
+                ASK c
+phil*ristocr*cy
+                ASK a
+philaristocracy
+                ANSWER philaristocracy
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+****s
+                ASK o
+MISS
+                ASK i
+MISS
+                ASK r
+**r*s
+                ASK u
+*ur*s
+                ASK d
+*urds
+                ASK t
+MISS
+                ASK h
+MISS
+                ASK c
+MISS
+                ASK b
+burds
+                ANSWER burds
+GOOD
+****
+                ASK a
+MISS
+                ASK e
+**e*
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK d
+MISS
+                ASK t
+*te*
+                ASK i
+ite*
+                ASK n
+MISS
+                ASK m
+item
+                ANSWER item
+GOOD
+*************
+                ASK i
+*****i*******
+                ASK n
+****ni*******
+                ASK e
+*e**ni*****e*
+                ASK r
+*e**ni****re*
+                ASK t
+te**ni****re*
+                ASK o
+te**ni*o*ore*
+                ASK l
+te**ni*olore*
+                ASK h
+te*hni*olore*
+                ASK d
+te*hni*olored
+                ASK c
+technicolored
+                ANSWER technicolored
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+a*******
+                ASK i
+a*i*****
+                ASK n
+MISS
+                ASK s
+a*i*s**s
+                ASK u
+a*i*s*us
+                ASK p
+a*ips*us
+                ASK o
+a*ipsous
+                ASK d
+adipsous
+                ANSWER adipsous
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+MISS
+                ASK a
+a*****a*e
+                ASK t
+MISS
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK l
+MISS
+                ASK c
+MISS
+                ASK o
+a*o***a*e
+                ASK p
+apo***a*e
+                ASK z
+apoz**a*e
+                ASK y
+apozy*a*e
+                ASK s
+apozy*ase
+                ASK m
+apozymase
+                ANSWER apozymase
+GOOD
+*******
+                ASK e
+*e***e*
+                ASK r
+re***e*
+                ASK d
+MISS
+                ASK s
+re***es
+                ASK i
+MISS
+                ASK a
+MISS
+                ASK l
+MISS
+                ASK t
+ret**es
+                ASK n
+MISS
+                ASK y
+rety*es
+                ASK p
+retypes
+                ANSWER retypes
+GOOD
+*************
+                ASK i
+i**********i*
+                ASK t
+i**t*******i*
+                ASK o
+io*to**o***i*
+                ASK s
+io*to**o**sis
+                ASK r
+io*to**or*sis
+                ASK p
+io*top*or*sis
+                ASK n
+iontop*or*sis
+                ASK h
+iontophor*sis
+                ASK e
+iontophoresis
+                ANSWER iontophoresis
+GOOD
+****
+                ASK a
+**a*
+                ASK r
+MISS
+                ASK s
+s*a*
+                ASK t
+s*at
+                ASK w
+MISS
+                ASK p
+MISS
+                ASK l
+MISS
+                ASK k
+skat
+                ANSWER skat
+GOOD
+***********
+                ASK e
+****e*e**e*
+                ASK r
+***re*e**e*
+                ASK n
+n*nre*e**e*
+                ASK o
+nonre*e**e*
+                ASK p
+MISS
+                ASK d
+nonre*ed*e*
+                ASK s
+nonre*ed*es
+                ASK m
+nonremed*es
+                ASK i
+nonremedies
+                ANSWER nonremedies
+GOOD
+************
+                ASK i
+*********i**
+                ASK n
+*********i*n
+                ASK o
+***o*****ion
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK e
+**eo*****ion
+                ASK r
+*reo*****ion
+                ASK p
+preo*****ion
+                ASK u
+preo***u*ion
+                ASK s
+preo***usion
+                ASK l
+preo**lusion
+                ASK c
+preocclusion
+                ANSWER preocclusion
+GOOD
+**********
+                ASK e
+*e********
+                ASK r
+*e*******r
+                ASK t
+MISS
+                ASK a
+*e***a**ar
+                ASK l
+*el**a**ar
+                ASK z
+*el**azzar
+                ASK s
+*els*azzar
+                ASK h
+*elshazzar
+                ASK b
+belshazzar
+                ANSWER belshazzar
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*******i*
+                ASK a
+**a*a**i*
+                ASK c
+MISS
+                ASK n
+**a*a**in
+                ASK z
+MISS
+                ASK s
+s*a*assin
+                ASK p
+spa*assin
+                ASK d
+spadassin
+                ANSWER spadassin
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+******i**
+                ASK n
+****n*i**
+                ASK a
+MISS
+                ASK t
+****n*it*
+                ASK r
+MISS
+                ASK y
+****n*ity
+                ASK u
+***un*ity
+                ASK d
+***undity
+                ASK c
+**cundity
+                ASK j
+j*cundity
+                ASK o
+jocundity
+                ANSWER jocundity
+GOOD
+**********
+                ASK e
+**e*******
+                ASK r
+r*e**r****
+                ASK n
+MISS
+                ASK i
+r*e**r**i*
+                ASK t
+r*e*tr**i*
+                ASK p
+r*e*tr*pi*
+                ASK o
+r*eotropi*
+                ASK h
+rheotropi*
+                ASK c
+rheotropic
+                ANSWER rheotropic
+GOOD
+*********
+                ASK e
+e********
+                ASK i
+MISS
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK a
+e*****a**
+                ASK r
+er****a**
+                ASK p
+er**p*a**
+                ASK m
+er**p*a*m
+                ASK s
+er**p*asm
+                ASK o
+er*op*asm
+                ASK l
+er*oplasm
+                ASK g
+ergoplasm
+                ANSWER ergoplasm
+GOOD
+*************
+                ASK i
+*i********i**
+                ASK n
+*i***n****i*n
+                ASK o
+*i**on****ion
+                ASK c
+*i*conc***ion
+                ASK s
+*isconc***ion
+                ASK t
+*isconc**tion
+                ASK e
+*isconce*tion
+                ASK r
+*isconcertion
+                ASK d
+disconcertion
+                ANSWER disconcertion
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+****a***
+                ASK r
+MISS
+                ASK s
+s***a***
+                ASK l
+MISS
+                ASK i
+MISS
+                ASK t
+s***at**
+                ASK u
+MISS
+                ASK d
+MISS
+                ASK c
+MISS
+                ASK o
+MISS
+                ASK m
+s*m*at**
+                ASK y
+sym*at*y
+                ASK p
+sympat*y
+                ASK h
+sympathy
+                ANSWER sympathy
+GOOD
+***********
+                ASK e
+*e*******e*
+                ASK r
+*er******e*
+                ASK i
+*er*i**i*e*
+                ASK d
+*er*i**i*ed
+                ASK z
+*er*i**ized
+                ASK t
+*er*it*ized
+                ASK m
+mermit*ized
+                ASK h
+mermithized
+                ANSWER mermithized
+GOOD
+*********
+                ASK e
+**e****e*
+                ASK r
+**e***re*
+                ASK d
+MISS
+                ASK s
+**e***res
+                ASK u
+MISS
+                ASK t
+MISS
+                ASK o
+o*e***res
+                ASK v
+ove***res
+                ASK a
+ove**ares
+                ASK w
+ove*wares
+                ASK n
+ovenwares
+                ANSWER ovenwares
+GOOD
+**********
+                ASK e
+********e*
+                ASK r
+**r*****e*
+                ASK a
+*ara****e*
+                ASK p
+MISS
+                ASK c
+carac***e*
+                ASK o
+caraco**e*
+                ASK l
+caracolle*
+                ASK d
+caracolled
+                ANSWER caracolled
+GOOD
+**********
+                ASK e
+****e*****
+                ASK r
+MISS
+                ASK i
+****e*i***
+                ASK s
+****e*i**s
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK o
+*o*oe*io*s
+                ASK u
+*o*oe*ious
+                ASK m
+*omoe*ious
+                ASK h
+homoe*ious
+                ASK c
+homoecious
+                ANSWER homoecious
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+***i*****
+                ASK a
+**ai***a*
+                ASK s
+**ai*s*a*
+                ASK n
+**ains*an
+                ASK m
+**ainsman
+                ASK r
+*rainsman
+                ASK g
+grainsman
+                ANSWER grainsman
+GOOD
+*************
+                ASK i
+MISS
+                ASK e
+******e******
+                ASK n
+MISS
+                ASK r
+MISS
+                ASK t
+***t**e******
+                ASK o
+MISS
+                ASK l
+*l*t**e***l**
+                ASK y
+*l*ty*e***l**
+                ASK p
+pl*ty*ep**l**
+                ASK h
+pl*ty*eph*l**
+                ASK c
+pl*tyceph*l**
+                ASK a
+platycephal**
+                ASK u
+platycephalu*
+                ASK s
+platycephalus
+                ANSWER platycephalus
+GOOD
+******
+                ASK e
+****e*
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK s
+s***e*
+                ASK a
+MISS
+                ASK t
+st**e*
+                ASK o
+sto*e*
+                ASK n
+sto*en
+                ASK v
+stoven
+                ANSWER stoven
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+**i*i**
+                ASK n
+**i*in*
+                ASK g
+**i*ing
+                ASK l
+**iling
+                ASK o
+*oiling
+                ASK t
+MISS
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK m
+moiling
+                ANSWER moiling
+GOOD
+*************
+                ASK i
+MISS
+                ASK e
+**e*****e**e*
+                ASK r
+**er*r**e**er
+                ASK v
+*ver*r*ve**er
+                ASK p
+*verpr*ve**er
+                ASK o
+overprove**er
+                ASK n
+overproven*er
+                ASK d
+overprovender
+                ANSWER overprovender
+GOOD
+******
+                ASK e
+*****e
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK l
+MISS
+                ASK r
+****re
+                ASK u
+MISS
+                ASK o
+***ore
+                ASK s
+**sore
+                ASK m
+m*sore
+                ASK y
+mysore
+                ANSWER mysore
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+*****i*i**
+                ASK n
+MISS
+                ASK t
+****ti*i**
+                ASK a
+**a*ti*ia*
+                ASK c
+MISS
+                ASK s
+**asti*ia*
+                ASK l
+*lasti*ial
+                ASK p
+plasti*ial
+                ASK d
+plastidial
+                ANSWER plastidial
+GOOD
+**************
+                ASK i
+*i*******i****
+                ASK s
+MISS
+                ASK t
+*i******ti****
+                ASK a
+*i****a*ti*a**
+                ASK r
+*i*r**arti*a**
+                ASK o
+*i*ro*arti*a**
+                ASK l
+*i*ro*artila**
+                ASK g
+*i*ro*artilag*
+                ASK f
+fi*ro*artilag*
+                ASK e
+fi*ro*artilage
+                ASK c
+fi*rocartilage
+                ASK b
+fibrocartilage
+                ANSWER fibrocartilage
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+***i*****
+                ASK a
+MISS
+                ASK n
+**ni*****
+                ASK s
+**nis****
+                ASK r
+*rnis****
+                ASK y
+*rnis***y
+                ASK p
+*rnis**py
+                ASK o
+ornis*opy
+                ASK c
+orniscopy
+                ANSWER orniscopy
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK i
+i****
+                ASK n
+i**n*
+                ASK o
+MISS
+                ASK t
+i**nt
+                ASK d
+MISS
+                ASK m
+im*nt
+                ASK c
+imcnt
+                ANSWER imcnt
+GOOD
+*********
+                ASK e
+****e**e*
+                ASK r
+***re**e*
+                ASK s
+***resse*
+                ASK d
+**dressed
+                ASK u
+u*dressed
+                ASK n
+undressed
+                ANSWER undressed
+GOOD
+***************
+                ASK i
+*********i*****
+                ASK a
+a********i*****
+                ASK t
+a*t******i*****
+                ASK o
+a*t**o*o*io*o**
+                ASK y
+a*t**o*o*io*o*y
+                ASK r
+a*t*ro*o*io*o*y
+                ASK p
+a*t*ropo*io*o*y
+                ASK n
+ant*ropo*io*o*y
+                ASK l
+ant*ropo*iolo*y
+                ASK h
+anthropo*iolo*y
+                ASK g
+anthropo*iology
+                ASK b
+anthropobiology
+                ANSWER anthropobiology
+GOOD
+***************
+                ASK i
+i********i*****
+                ASK r
+MISS
+                ASK n
+i***n****i*****
+                ASK y
+i***n****i****y
+                ASK m
+imm*n****i****y
+                ASK u
+immun****i****y
+                ASK o
+immuno*o*i****y
+                ASK l
+immunolo*i**lly
+                ASK g
+immunologi**lly
+                ASK c
+immunologic*lly
+                ASK a
+immunologically
+                ANSWER immunologically
+GOOD
+*********
+                ASK e
+*e******e
+                ASK i
+*e**i***e
+                ASK t
+*e*tit**e
+                ASK u
+*e*titu*e
+                ASK d
+MISS
+                ASK r
+*e*titure
+                ASK v
+ve*titure
+                ASK s
+vestiture
+                ANSWER vestiture
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+***i***
+                ASK s
+***is*s
+                ASK t
+***ists
+                ASK r
+**rists
+                ASK u
+MISS
+                ASK y
+MISS
+                ASK v
+MISS
+                ASK p
+MISS
+                ASK o
+MISS
+                ASK l
+MISS
+                ASK j
+MISS
+                ASK h
+*hrists
+                ASK c
+christs
+                ANSWER christs
+GOOD
+********
+                ASK e
+**e*****
+                ASK r
+**er****
+                ASK o
+o*er*o**
+                ASK v
+over*o**
+                ASK l
+over*ol*
+                ASK d
+over*old
+                ASK t
+MISS
+                ASK s
+MISS
+                ASK h
+MISS
+                ASK f
+MISS
+                ASK c
+MISS
+                ASK b
+overbold
+                ANSWER overbold
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+MISS
+                ASK r
+***r***
+                ASK s
+MISS
+                ASK o
+*o*ro**
+                ASK d
+MISS
+                ASK c
+MISS
+                ASK w
+MISS
+                ASK t
+*o*ro*t
+                ASK u
+*ourout
+                ASK b
+bourout
+                ANSWER bourout
+GOOD
+********
+                ASK e
+**e****e
+                ASK r
+**er***e
+                ASK o
+MISS
+                ASK v
+MISS
+                ASK a
+**er*a*e
+                ASK t
+*ter*a*e
+                ASK s
+ster*a*e
+                ASK n
+sterna*e
+                ASK g
+sternage
+                ANSWER sternage
+GOOD
+********
+                ASK e
+***e****
+                ASK r
+***e**r*
+                ASK a
+MISS
+                ASK s
+MISS
+                ASK o
+*o*e*or*
+                ASK w
+*o*ewor*
+                ASK t
+*o*ewort
+                ASK n
+*onewort
+                ASK h
+honewort
+                ANSWER honewort
+GOOD
+****
+                ASK a
+*a**
+                ASK s
+sa**
+                ASK i
+MISS
+                ASK e
+sa*e
+                ASK x
+MISS
+                ASK v
+MISS
+                ASK t
+MISS
+                ASK r
+sare
+                ANSWER sare
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+a*****
+                ASK i
+a****i
+                ASK l
+MISS
+                ASK r
+MISS
+                ASK g
+MISS
+                ASK n
+MISS
+                ASK d
+MISS
+                ASK s
+MISS
+                ASK o
+MISS
+                ASK h
+a***hi
+                ASK c
+ac*chi
+                ASK u
+acuchi
+                ANSWER acuchi
+GOOD
+***********
+                ASK e
+****e*****e
+                ASK r
+MISS
+                ASK a
+MISS
+                ASK i
+****e*i*i*e
+                ASK n
+n*n*e*ini*e
+                ASK t
+n*n*e*inite
+                ASK o
+non*e*inite
+                ASK f
+non*efinite
+                ASK d
+nondefinite
+                ANSWER nondefinite
+GOOD
+*************
+                ASK i
+***********i*
+                ASK o
+**o********i*
+                ASK t
+**o**t*****i*
+                ASK a
+**o*ata****i*
+                ASK p
+p*o*ata**p*i*
+                ASK s
+p*o*ata**psis
+                ASK r
+pro*ata**psis
+                ASK l
+pro*atal*psis
+                ASK e
+pro*atalepsis
+                ASK c
+procatalepsis
+                ANSWER procatalepsis
+GOOD
+******
+                ASK e
+*****e
+                ASK a
+a****e
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK l
+MISS
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK u
+MISS
+                ASK s
+MISS
+                ASK c
+MISS
+                ASK o
+a**o*e
+                ASK p
+MISS
+                ASK m
+a*mo*e
+                ASK v
+a*move
+                ASK d
+admove
+                ANSWER admove
+GOOD
+********
+                ASK e
+*e******
+                ASK r
+*er*****
+                ASK i
+MISS
+                ASK a
+*er**a**
+                ASK t
+MISS
+                ASK n
+*ern*an*
+                ASK l
+*ernlan*
+                ASK f
+fernlan*
+                ASK d
+fernland
+                ANSWER fernland
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+**s**es*
+                ASK t
+**s**est
+                ASK i
+**s*iest
+                ASK u
+*us*iest
+                ASK h
+*ushiest
+                ASK r
+rushiest
+                ANSWER rushiest
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+*a*****
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK n
+na*****
+                ASK t
+na**t**
+                ASK o
+na**t*o
+                ASK p
+nap*t*o
+                ASK h
+naphtho
+                ANSWER naphtho
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*******i*
+                ASK a
+*****a*i*
+                ASK c
+***c*a*ic
+                ASK r
+***cra*ic
+                ASK t
+MISS
+                ASK o
+MISS
+                ASK y
+*y*cra*ic
+                ASK s
+*yscrasic
+                ASK d
+dyscrasic
+                ANSWER dyscrasic
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+**e**
+                ASK s
+**es*
+                ASK t
+**est
+                ASK r
+MISS
+                ASK w
+MISS
+                ASK i
+MISS
+                ASK u
+MISS
+                ASK g
+MISS
+                ASK d
+d*est
+                ASK o
+doest
+                ANSWER doest
+GOOD
+**********
+                ASK e
+*e********
+                ASK r
+re**r*****
+                ASK s
+MISS
+                ASK a
+re*ar*a***
+                ASK d
+MISS
+                ASK l
+re*ar*a*l*
+                ASK b
+re*ar*abl*
+                ASK y
+re*ar*ably
+                ASK w
+MISS
+                ASK m
+remar*ably
+                ASK k
+remarkably
+                ANSWER remarkably
+GOOD
+**************
+                ASK i
+**********i***
+                ASK a
+MISS
+                ASK o
+******o*o*i***
+                ASK l
+*l****olo*i***
+                ASK t
+*l**t*olo*i*t*
+                ASK s
+*l**t*olo*ists
+                ASK r
+*l**trolo*ists
+                ASK g
+*l**trologists
+                ASK e
+ele*trologists
+                ASK c
+electrologists
+                ANSWER electrologists
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+**a*****
+                ASK s
+**a***s*
+                ASK t
+MISS
+                ASK i
+**a**is*
+                ASK h
+**a**ish
+                ASK r
+*ra**ish
+                ASK b
+*rabbish
+                ASK d
+drabbish
+                ANSWER drabbish
+GOOD
+*******************
+                ASK i
+*************i*****
+                ASK a
+*******a*****i*a***
+                ASK y
+*y*****a*****i*a**y
+                ASK t
+*y**t**at****i*a**y
+                ASK s
+sy**t**at****i*a**y
+                ASK p
+sy*pt**at****i*a**y
+                ASK o
+sy*pto*ato*o*i*a**y
+                ASK m
+symptomato*o*i*a**y
+                ASK l
+symptomatolo*i*ally
+                ASK g
+symptomatologi*ally
+                ASK c
+symptomatologically
+                ANSWER symptomatologically
+GOOD
+*************
+                ASK i
+**********i**
+                ASK t
+MISS
+                ASK n
+*********ni**
+                ASK e
+MISS
+                ASK s
+MISS
+                ASK o
+****o***oni**
+                ASK r
+***ro***oni**
+                ASK u
+*u*ro***oniu*
+                ASK p
+*upro***oniu*
+                ASK m
+*upro*mmonium
+                ASK c
+cupro*mmonium
+                ASK a
+cuproammonium
+                ANSWER cuproammonium
+GOOD
+*********
+                ASK e
+***e*****
+                ASK r
+***er****
+                ASK n
+MISS
+                ASK i
+MISS
+                ASK t
+MISS
+                ASK a
+MISS
+                ASK s
+s**er****
+                ASK u
+su*er****
+                ASK p
+super****
+                ASK l
+super***l
+                ASK o
+super*ool
+                ASK c
+supercool
+                ANSWER supercool
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+*i***i**i**
+                ASK n
+*i***in*in*
+                ASK g
+*i***in*ing
+                ASK t
+*i*t*in*ing
+                ASK s
+*ist*in*ing
+                ASK m
+mist*in*ing
+                ASK k
+mist*inking
+                ASK h
+misthinking
+                ANSWER misthinking
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+s****
+                ASK i
+s**i*
+                ASK t
+MISS
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK p
+MISS
+                ASK l
+sl*i*
+                ASK u
+MISS
+                ASK o
+sloi*
+                ASK d
+sloid
+                ANSWER sloid
+GOOD
+********
+                ASK e
+*e*e****
+                ASK r
+re*e****
+                ASK d
+re*ed***
+                ASK i
+re*edi**
+                ASK m
+remedi*m
+                ASK u
+remedium
+                ANSWER remedium
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+****a*a***
+                ASK l
+****a*a*l*
+                ASK b
+****a*abl*
+                ASK n
+*n**a*abl*
+                ASK u
+un**a*abl*
+                ASK s
+uns*a*abl*
+                ASK h
+unsha*abl*
+                ASK y
+unsha*ably
+                ASK m
+MISS
+                ASK k
+unshakably
+                ANSWER unshakably
+GOOD
+****************
+                ASK i
+*******i***i****
+                ASK t
+*******i**ti****
+                ASK l
+*******i**ti**l*
+                ASK y
+*******i**ti**ly
+                ASK n
+n*n****i**ti**ly
+                ASK v
+n*n****i**tiv*ly
+                ASK o
+non****i**tiv*ly
+                ASK e
+non**e*i**tively
+                ASK r
+non*re*i**tively
+                ASK p
+nonpre*i**tively
+                ASK d
+nonpredi**tively
+                ASK c
+nonpredic*tively
+                ASK a
+nonpredicatively
+                ANSWER nonpredicatively
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK s
+MISS
+                ASK n
+MISS
+                ASK o
+MISS
+                ASK l
+***l**
+                ASK u
+*u*lu*
+                ASK m
+MISS
+                ASK k
+*u*luk
+                ASK z
+*uzluk
+                ASK y
+yuzluk
+                ANSWER yuzluk
+GOOD
+**********
+                ASK e
+**e*******
+                ASK r
+**er******
+                ASK o
+MISS
+                ASK v
+MISS
+                ASK t
+t*er***t**
+                ASK h
+ther***t**
+                ASK a
+ther*a*t**
+                ASK n
+ther*ant**
+                ASK m
+thermant**
+                ASK i
+thermanti*
+                ASK c
+thermantic
+                ANSWER thermantic
+GOOD
+********
+                ASK e
+****e*e*
+                ASK r
+****e*er
+                ASK t
+****eter
+                ASK m
+MISS
+                ASK o
+MISS
+                ASK c
+MISS
+                ASK a
+MISS
+                ASK i
+*i**eter
+                ASK d
+MISS
+                ASK p
+MISS
+                ASK l
+*illeter
+                ASK f
+MISS
+                ASK b
+billeter
+                ANSWER billeter
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+******i**
+                ASK n
+MISS
+                ASK a
+MISS
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK s
+******is*
+                ASK m
+******ism
+                ASK o
+****o*ism
+                ASK l
+***lo*ism
+                ASK g
+MISS
+                ASK p
+***lopism
+                ASK y
+*y*lopism
+                ASK c
+cyclopism
+                ANSWER cyclopism
+GOOD
+**********
+                ASK e
+****e*****
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK n
+***ne*****
+                ASK t
+***ne*t***
+                ASK o
+***ne*to**
+                ASK y
+***ne*to*y
+                ASK m
+**mne*tomy
+                ASK l
+l*mne*tomy
+                ASK c
+l*mnectomy
+                ASK a
+lamnectomy
+                ANSWER lamnectomy
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK r
+MISS
+                ASK i
+MISS
+                ASK s
+MISS
+                ASK n
+**n***
+                ASK o
+**n*o*
+                ASK t
+MISS
+                ASK d
+**ndo*
+                ASK c
+MISS
+                ASK b
+MISS
+                ASK m
+MISS
+                ASK g
+g*ndog
+                ASK u
+gundog
+                ANSWER gundog
+GOOD
+************
+                ASK i
+MISS
+                ASK e
+*******e***e
+                ASK a
+*a***a*e***e
+                ASK r
+*a**ra*e***e
+                ASK u
+*a*ura*e**ue
+                ASK t
+*atura*e**ue
+                ASK s
+*atura*es*ue
+                ASK q
+*atura*esque
+                ASK n
+natura*esque
+                ASK l
+naturalesque
+                ANSWER naturalesque
+GOOD
+*****
+                ASK a
+a****
+                ASK e
+a*ee*
+                ASK m
+MISS
+                ASK k
+a*eek
+                ASK w
+MISS
+                ASK r
+MISS
+                ASK p
+apeek
+                ANSWER apeek
+GOOD
+**************
+                ASK i
+***********i**
+                ASK t
+MISS
+                ASK n
+**n*****n**in*
+                ASK o
+*on***oon**in*
+                ASK y
+*on*y*oon**in*
+                ASK s
+*on*y*oons*in*
+                ASK m
+*on*ymoons*in*
+                ASK h
+hon*ymoonshin*
+                ASK e
+honeymoonshine
+                ANSWER honeymoonshine
+GOOD
+********
+                ASK e
+*e******
+                ASK r
+MISS
+                ASK i
+*e**i***
+                ASK s
+*e**i**s
+                ASK n
+*e**in*s
+                ASK g
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK a
+*e**inas
+                ASK p
+pe**inas
+                ASK m
+pem*inas
+                ASK b
+pembinas
+                ANSWER pembinas
+GOOD
+*************
+                ASK i
+*********i***
+                ASK e
+**e******i***
+                ASK r
+**e****r*i***
+                ASK p
+p*e****r*i***
+                ASK t
+p*e****r*it**
+                ASK o
+p*e*o**r*ito*
+                ASK n
+p*eno**r*ito*
+                ASK l
+p*eno**r*itol
+                ASK h
+pheno**r*itol
+                ASK b
+phenob*rbitol
+                ASK a
+phenobarbitol
+                ANSWER phenobarbitol
+GOOD
+*********
+                ASK e
+****e****
+                ASK r
+*r**e****
+                ASK p
+MISS
+                ASK t
+MISS
+                ASK i
+MISS
+                ASK a
+ar**e****
+                ASK h
+ar*he****
+                ASK c
+arche****
+                ASK y
+arche***y
+                ASK o
+arche*o*y
+                ASK g
+arche*ogy
+                ASK l
+archelogy
+                ANSWER archelogy
+GOOD
+**************
+                ASK i
+***********i**
+                ASK t
+**********ti**
+                ASK n
+n*n*******tin*
+                ASK o
+non*******tin*
+                ASK g
+non*******ting
+                ASK a
+MISS
+                ASK c
+non*****c*ting
+                ASK r
+non**r**c*ting
+                ASK u
+non**r**cuting
+                ASK s
+non**rs*cuting
+                ASK p
+nonp*rs*cuting
+                ASK e
+nonpersecuting
+                ANSWER nonpersecuting
+GOOD
+**************
+                ASK i
+*****i******i*
+                ASK c
+MISS
+                ASK a
+a****i******i*
+                ASK t
+a*t**i*t****i*
+                ASK s
+a*t**i*t***sis
+                ASK r
+art*ri*tr**sis
+                ASK p
+art*ri*tr*psis
+                ASK o
+art*riotr*psis
+                ASK e
+arteriotrepsis
+                ANSWER arteriotrepsis
+GOOD
+*********
+                ASK e
+e********
+                ASK i
+MISS
+                ASK n
+MISS
+                ASK t
+MISS
+                ASK a
+e****a*a*
+                ASK g
+e****aga*
+                ASK s
+es***aga*
+                ASK p
+es*p*aga*
+                ASK o
+esop*aga*
+                ASK l
+esop*agal
+                ASK h
+esophagal
+                ANSWER esophagal
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK n
+**n***e*n
+                ASK a
+*an***ean
+                ASK i
+*an*i*ean
+                ASK d
+*an*idean
+                ASK o
+*anoidean
+                ASK g
+ganoidean
+                ANSWER ganoidean
+GOOD
+******
+                ASK e
+****e*
+                ASK r
+****er
+                ASK a
+*a**er
+                ASK n
+MISS
+                ASK t
+*atter
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK v
+MISS
+                ASK p
+MISS
+                ASK m
+MISS
+                ASK l
+MISS
+                ASK h
+MISS
+                ASK g
+MISS
+                ASK f
+MISS
+                ASK c
+catter
+                ANSWER catter
+GOOD
+*******
+                ASK e
+e****e*
+                ASK s
+e**s*es
+                ASK n
+en*s*es
+                ASK l
+en*sles
+                ASK i
+enisles
+                ANSWER enisles
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+*a*******
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+MISS
+                ASK t
+ta*t*****
+                ASK l
+ta*t**ll*
+                ASK y
+ta*t**lly
+                ASK u
+ta*t*ully
+                ASK f
+ta*tfully
+                ASK c
+tactfully
+                ANSWER tactfully
+GOOD
+**********
+                ASK e
+********e*
+                ASK r
+*****r**e*
+                ASK a
+****ar**e*
+                ASK i
+****ari*e*
+                ASK s
+****arise*
+                ASK u
+*u**arise*
+                ASK v
+vu**arise*
+                ASK l
+vul*arise*
+                ASK g
+vulgarise*
+                ASK d
+vulgarised
+                ANSWER vulgarised
+GOOD
+**************
+                ASK i
+*****i***i*i**
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK a
+MISS
+                ASK n
+*****in**i*in*
+                ASK z
+*****in**izin*
+                ASK r
+***r*in*rizin*
+                ASK s
+s**r*in*rizin*
+                ASK h
+s*hr*in*rizin*
+                ASK g
+s*hr*in*rizing
+                ASK e
+s*hreinerizing
+                ASK c
+schreinerizing
+                ANSWER schreinerizing
+GOOD
+*********
+                ASK e
+********e
+                ASK i
+MISS
+                ASK a
+*a****a*e
+                ASK t
+*a***tate
+                ASK p
+MISS
+                ASK l
+*a**ltate
+                ASK u
+*a*ultate
+                ASK f
+fa*ultate
+                ASK c
+facultate
+                ANSWER facultate
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+*a****
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK s
+*a***s
+                ASK l
+MISS
+                ASK i
+MISS
+                ASK t
+MISS
+                ASK m
+*am**s
+                ASK b
+bamb*s
+                ASK o
+bambos
+                ANSWER bambos
+GOOD
+**************
+                ASK i
+MISS
+                ASK e
+****e*********
+                ASK n
+n*n*e*********
+                ASK o
+non*e******o**
+                ASK t
+non*et****to**
+                ASK y
+non*et****to*y
+                ASK r
+nonret*r**tory
+                ASK d
+nonret*rd*tory
+                ASK a
+nonretardatory
+                ANSWER nonretardatory
+GOOD
+*************
+                ASK i
+******i******
+                ASK n
+******in*n***
+                ASK e
+******in*ne**
+                ASK s
+s*****in*ness
+                ASK g
+s*****ingness
+                ASK r
+s**r**ingness
+                ASK a
+s*ar**ingness
+                ASK l
+s*ar*lingness
+                ASK t
+MISS
+                ASK p
+spar*lingness
+                ASK k
+sparklingness
+                ANSWER sparklingness
+GOOD
+*********
+                ASK e
+*e*e*****
+                ASK r
+*e*e**r**
+                ASK s
+*e*es*r**
+                ASK t
+*e*estr**
+                ASK l
+*e*estr*l
+                ASK a
+MISS
+                ASK x
+*exestr*l
+                ASK o
+*exestrol
+                ASK h
+hexestrol
+                ANSWER hexestrol
+GOOD
+*******
+                ASK e
+***e***
+                ASK a
+a**e***
+                ASK r
+ar*er**
+                ASK i
+ar*eri*
+                ASK t
+arteri*
+                ASK n
+arterin
+                ANSWER arterin
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+*i***i**i**
+                ASK n
+*i***i**i*n
+                ASK t
+*i***i*ti*n
+                ASK o
+*i***i*tion
+                ASK a
+*i*a*iation
+                ASK r
+*ira*iation
+                ASK d
+diradiation
+                ANSWER diradiation
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK d
+*****ed
+                ASK a
+MISS
+                ASK l
+MISS
+                ASK i
+MISS
+                ASK t
+****ted
+                ASK u
+u***ted
+                ASK n
+un**ted
+                ASK o
+uno*ted
+                ASK p
+unopted
+                ANSWER unopted
+GOOD
+**********
+                ASK e
+*e***e**e*
+                ASK r
+re***er*e*
+                ASK i
+re***erie*
+                ASK s
+re***eries
+                ASK v
+re**veries
+                ASK o
+re*overies
+                ASK c
+recoveries
+                ANSWER recoveries
+GOOD
+**********
+                ASK e
+*******e**
+                ASK s
+MISS
+                ASK n
+*n*n***e**
+                ASK u
+un*nu**e**
+                ASK r
+un*nu**e*r
+                ASK l
+un*nu*le*r
+                ASK i
+uninu*le*r
+                ASK c
+uninucle*r
+                ASK a
+uninuclear
+                ANSWER uninuclear
+GOOD
+***************
+                ASK i
+******i*i***i**
+                ASK t
+******i*i**ti**
+                ASK n
+******i*i**ti*n
+                ASK o
+******i*i**tion
+                ASK a
+***a**i*i*ation
+                ASK c
+***ac*i*ication
+                ASK r
+*r*ac*i*ication
+                ASK p
+pr*ac*i*ication
+                ASK h
+pr*achi*ication
+                ASK f
+pr*achification
+                ASK e
+preachification
+                ANSWER preachification
+GOOD
+***********
+                ASK e
+e**********
+                ASK i
+e**i**i****
+                ASK p
+MISS
+                ASK n
+en*i**in***
+                ASK y
+en*i**in**y
+                ASK r
+enri**in**y
+                ASK l
+enri**in*ly
+                ASK h
+enri*hin*ly
+                ASK g
+enri*hingly
+                ASK c
+enrichingly
+                ANSWER enrichingly
+GOOD
+*********
+                ASK e
+******ee*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK d
+****d*eed
+                ASK w
+****dweed
+                ASK o
+**oodweed
+                ASK l
+*loodweed
+                ASK b
+bloodweed
+                ANSWER bloodweed
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK d
+MISS
+                ASK i
+MISS
+                ASK a
+***a*ea
+                ASK l
+MISS
+                ASK m
+*mma*ea
+                ASK t
+*mmatea
+                ASK o
+ommatea
+                ANSWER ommatea
+GOOD
+******
+                ASK e
+MISS
+                ASK a
+*****a
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK o
+MISS
+                ASK t
+MISS
+                ASK l
+***l*a
+                ASK h
+*h*l*a
+                ASK c
+MISS
+                ASK u
+*hul*a
+                ASK p
+phul*a
+                ASK w
+phulwa
+                ANSWER phulwa
+GOOD
+************
+                ASK i
+**********i*
+                ASK o
+*******o*oio
+                ASK z
+*******ozoio
+                ASK t
+******tozoio
+                ASK s
+s*****tozoio
+                ASK r
+s**r**tozoio
+                ASK p
+sp*r**tozoio
+                ASK m
+sp*rm*tozoio
+                ASK e
+sperm*tozoio
+                ASK a
+spermatozoio
+                ANSWER spermatozoio
+GOOD
+*****
+                ASK a
+*a*a*
+                ASK n
+MISS
+                ASK s
+MISS
+                ASK l
+*ala*
+                ASK b
+MISS
+                ASK t
+MISS
+                ASK r
+MISS
+                ASK p
+MISS
+                ASK m
+mala*
+                ASK y
+MISS
+                ASK x
+malax
+                ANSWER malax
+GOOD
+*******
+                ASK e
+*****e*
+                ASK r
+MISS
+                ASK s
+*****es
+                ASK i
+****ies
+                ASK a
+MISS
+                ASK o
+*o**ies
+                ASK l
+*ollies
+                ASK t
+MISS
+                ASK m
+MISS
+                ASK j
+MISS
+                ASK h
+MISS
+                ASK f
+follies
+                ANSWER follies
+GOOD
+**********
+                ASK e
+MISS
+                ASK i
+MISS
+                ASK a
+*****a****
+                ASK t
+*t***at***
+                ASK s
+st***at**s
+                ASK u
+st***at*us
+                ASK o
+st*o*atous
+                ASK r
+stro*atous
+                ASK m
+stromatous
+                ANSWER stromatous
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+MISS
+                ASK s
+***s*
+                ASK t
+MISS
+                ASK i
+**is*
+                ASK r
+*ris*
+                ASK b
+MISS
+                ASK p
+MISS
+                ASK k
+*risk
+                ASK f
+frisk
+                ANSWER frisk
+GOOD
+****
+                ASK a
+*a**
+                ASK s
+MISS
+                ASK r
+MISS
+                ASK n
+MISS
+                ASK t
+*at*
+                ASK h
+*ath
+                ASK w
+MISS
+                ASK p
+MISS
+                ASK o
+MISS
+                ASK m
+MISS
+                ASK l
+MISS
+                ASK k
+MISS
+                ASK f
+MISS
+                ASK e
+MISS
+                ASK c
+MISS
+                ASK b
+bath
+                ANSWER bath
+GOOD
+*********
+                ASK e
+****e**e*
+                ASK r
+****e**er
+                ASK t
+t***e*ter
+                ASK s
+t***ester
+                ASK o
+t**oester
+                ASK i
+t*ioester
+                ASK h
+thioester
+                ANSWER thioester
+GOOD
+**********
+                ASK e
+********e*
+                ASK r
+******r*er
+                ASK o
+*****or*er
+                ASK w
+MISS
+                ASK k
+MISS
+                ASK s
+MISS
+                ASK a
+**a**or*er
+                ASK d
+MISS
+                ASK u
+MISS
+                ASK t
+**at*or*er
+                ASK p
+p*at*or*er
+                ASK m
+p*at*ormer
+                ASK l
+plat*ormer
+                ASK f
+platformer
+                ANSWER platformer
+GOOD
+*******
+                ASK e
+**e*e**
+                ASK r
+*re*e**
+                ASK p
+pre*e**
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK s
+MISS
+                ASK d
+prede**
+                ASK y
+prede*y
+                ASK f
+predefy
+                ANSWER predefy
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+MISS
+                ASK i
+**i*****
+                ASK s
+**i****s
+                ASK r
+MISS
+                ASK t
+MISS
+                ASK n
+MISS
+                ASK l
+**il***s
+                ASK u
+MISS
+                ASK o
+*oilo**s
+                ASK f
+*oiloffs
+                ASK b
+boiloffs
+                ANSWER boiloffs
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+**a**a*
+                ASK n
+MISS
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK s
+**a**as
+                ASK h
+MISS
+                ASK c
+MISS
+                ASK t
+MISS
+                ASK i
+*ia**as
+                ASK z
+*iazzas
+                ASK p
+piazzas
+                ANSWER piazzas
+GOOD
+**********
+                ASK e
+e**e****e*
+                ASK r
+e**e****er
+                ASK n
+e**en***er
+                ASK w
+e**en**wer
+                ASK s
+e*sen**wer
+                ASK o
+e*sen*ower
+                ASK i
+eisen*ower
+                ASK h
+eisenhower
+                ANSWER eisenhower
+GOOD
+********
+                ASK e
+*****e**
+                ASK s
+MISS
+                ASK r
+*****er*
+                ASK a
+**a**er*
+                ASK t
+**a**ert
+                ASK l
+*la**ert
+                ASK f
+fla**ert
+                ASK u
+flau*ert
+                ASK b
+flaubert
+                ANSWER flaubert
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+****i*i**
+                ASK n
+****i*in*
+                ASK g
+****i*ing
+                ASK r
+*r**i*ing
+                ASK p
+pr**i*ing
+                ASK s
+MISS
+                ASK o
+pro*i*ing
+                ASK f
+profi*ing
+                ASK t
+MISS
+                ASK l
+profiling
+                ANSWER profiling
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+*******i*
+                ASK a
+MISS
+                ASK o
+***o*o*i*
+                ASK c
+***o*o*ic
+                ASK l
+MISS
+                ASK t
+MISS
+                ASK g
+MISS
+                ASK m
+MISS
+                ASK n
+MISS
+                ASK h
+MISS
+                ASK r
+**ro*oric
+                ASK y
+*yro*oric
+                ASK p
+pyro*oric
+                ASK b
+pyroboric
+                ANSWER pyroboric
+GOOD
+********
+                ASK e
+***e**e*
+                ASK r
+MISS
+                ASK d
+MISS
+                ASK s
+***e*ses
+                ASK a
+MISS
+                ASK c
+MISS
+                ASK i
+MISS
+                ASK u
+*u*euses
+                ASK m
+*umeuses
+                ASK f
+fumeuses
+                ANSWER fumeuses
+GOOD
+********
+                ASK e
+MISS
+                ASK a
+******a*
+                ASK n
+****n*a*
+                ASK i
+***in*a*
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK s
+MISS
+                ASK c
+MISS
+                ASK m
+MISS
+                ASK g
+MISS
+                ASK t
+MISS
+                ASK o
+*o*in*a*
+                ASK d
+MISS
+                ASK v
+MISS
+                ASK p
+popin*a*
+                ASK y
+popin*ay
+                ASK j
+popinjay
+                ANSWER popinjay
+GOOD
+*************
+                ASK i
+***********i*
+                ASK o
+***o**o****i*
+                ASK t
+**to**ot***i*
+                ASK u
+*uto**ot***i*
+                ASK s
+*uto**ot**sis
+                ASK r
+*uto*rot**sis
+                ASK p
+*utoprot**sis
+                ASK h
+*utoproth*sis
+                ASK e
+*utoprothesis
+                ASK a
+autoprothesis
+                ANSWER autoprothesis
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+*****a*e
+                ASK t
+*****ate
+                ASK i
+MISS
+                ASK r
+MISS
+                ASK l
+l***late
+                ASK u
+l**ulate
+                ASK o
+lo*ulate
+                ASK c
+MISS
+                ASK b
+lobulate
+                ANSWER lobulate
+GOOD
+********
+                ASK e
+*******e
+                ASK a
+******ae
+                ASK i
+**i***ae
+                ASK l
+**i**lae
+                ASK u
+**i*ulae
+                ASK s
+s*i*ulae
+                ASK p
+spi*ulae
+                ASK r
+spirulae
+                ANSWER spirulae
+GOOD
+*****
+                ASK a
+*a*a*
+                ASK n
+MISS
+                ASK s
+MISS
+                ASK l
+*a*al
+                ASK b
+MISS
+                ASK m
+MISS
+                ASK y
+MISS
+                ASK c
+*acal
+                ASK j
+jacal
+                ANSWER jacal
+GOOD
+***************
+                ASK i
+************i**
+                ASK t
+**t********ti**
+                ASK n
+*nt********ti*n
+                ASK o
+*nt****o***tion
+                ASK r
+*nt*r**or**tion
+                ASK m
+*nt*r**orm*tion
+                ASK f
+*nt*r*form*tion
+                ASK e
+*ntereform*tion
+                ASK a
+antereformation
+                ANSWER antereformation
+GOOD
+**************
+                ASK i
+***********i**
+                ASK t
+****t******i**
+                ASK n
+****t*n****i**
+                ASK a
+****tan*a**i**
+                ASK z
+****tan*a**iz*
+                ASK s
+***stan*a**iz*
+                ASK r
+*r*stan*ar*iz*
+                ASK p
+pr*stan*ar*iz*
+                ASK e
+prestan*ar*ize
+                ASK d
+prestandardize
+                ANSWER prestandardize
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK d
+******ed
+                ASK n
+*n****ed
+                ASK u
+un****ed
+                ASK a
+un**a*ed
+                ASK l
+un*la*ed
+                ASK f
+unfla*ed
+                ASK y
+MISS
+                ASK w
+MISS
+                ASK t
+MISS
+                ASK k
+unflaked
+                ANSWER unflaked
+GOOD
+**********
+                ASK e
+***e***e**
+                ASK s
+***e***ess
+                ASK n
+***en*ness
+                ASK t
+***entness
+                ASK r
+*r*entness
+                ASK u
+MISS
+                ASK o
+MISS
+                ASK i
+MISS
+                ASK g
+MISS
+                ASK d
+*rdentness
+                ASK a
+ardentness
+                ANSWER ardentness
+GOOD
+*****
+                ASK a
+MISS
+                ASK e
+*e*e*
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK l
+*ele*
+                ASK t
+MISS
+                ASK k
+*elek
+                ASK y
+yelek
+                ANSWER yelek
+GOOD
+***********
+                ASK e
+******e***e
+                ASK a
+a***a*e***e
+                ASK t
+a***a*et**e
+                ASK p
+a*p*a*et**e
+                ASK l
+alp*a*et**e
+                ASK i
+alp*a*eti*e
+                ASK h
+alpha*eti*e
+                ASK b
+alphabeti*e
+                ASK z
+alphabetize
+                ANSWER alphabetize
+GOOD
+***********
+                ASK e
+********e**
+                ASK n
+*******ne**
+                ASK s
+*****s*ness
+                ASK i
+****is*ness
+                ASK h
+****ishness
+                ASK a
+MISS
+                ASK o
+*oo*ishness
+                ASK b
+MISS
+                ASK r
+MISS
+                ASK m
+moo*ishness
+                ASK d
+moodishness
+                ANSWER moodishness
+GOOD
+************
+                ASK i
+*i*******i**
+                ASK n
+*i******nin*
+                ASK g
+*i******ning
+                ASK s
+*is*****ning
+                ASK e
+MISS
+                ASK d
+dis*****ning
+                ASK c
+disc****ning
+                ASK p
+MISS
+                ASK o
+disco**oning
+                ASK m
+discommoning
+                ANSWER discommoning
+GOOD
+***********
+                ASK e
+MISS
+                ASK i
+***i***i***
+                ASK a
+a**i***i*a*
+                ASK n
+an*i***i*an
+                ASK u
+an*i*u*i*an
+                ASK t
+anti*u*itan
+                ASK r
+anti*uritan
+                ASK p
+antipuritan
+                ANSWER antipuritan
+GOOD
+*********
+                ASK e
+MISS
+                ASK i
+******i**
+                ASK n
+******in*
+                ASK g
+******ing
+                ASK r
+MISS
+                ASK a
+MISS
+                ASK t
+MISS
+                ASK l
+MISS
+                ASK s
+s*****ing
+                ASK u
+MISS
+                ASK c
+s***c*ing
+                ASK h
+s***ching
+                ASK o
+s*ooching
+                ASK m
+smooching
+                ANSWER smooching
+GOOD
+*********
+                ASK e
+**e******
+                ASK r
+**er*****
+                ASK o
+o*er**o**
+                ASK v
+over**o**
+                ASK s
+MISS
+                ASK l
+over*lo**
+                ASK f
+MISS
+                ASK w
+MISS
+                ASK c
+overclo**
+                ASK u
+MISS
+                ASK k
+overclo*k
+                ASK a
+overcloak
+                ANSWER overcloak
+GOOD
+*********
+                ASK e
+******e**
+                ASK s
+s*****e**
+                ASK t
+st****e*t
+                ASK i
+MISS
+                ASK r
+st*r**e*t
+                ASK o
+stor**e*t
+                ASK m
+storm*e*t
+                ASK l
+storm*elt
+                ASK b
+stormbelt
+                ANSWER stormbelt
+GOOD
+********
+                ASK e
+******e*
+                ASK r
+*r****er
+                ASK i
+*r***ier
+                ASK a
+MISS
+                ASK o
+*roo*ier
+                ASK d
+MISS
+                ASK b
+broo*ier
+                ASK m
+broomier
+                ANSWER broomier
+GOOD
+**************
+                ASK i
+************i*
+                ASK o
+*****o******i*
+                ASK c
+MISS
+                ASK t
+*t***o******i*
+                ASK s
+st***o****s*i*
+                ASK r
+st***o***rs*i*
+                ASK p
+st***o***rs*ip
+                ASK l
+st***ol**rs*ip
+                ASK h
+st**hol**rship
+                ASK e
+st**hol*ership
+                ASK d
+st*dholdership
+                ASK a
+stadholdership
+                ANSWER stadholdership
+GOOD
+*****************
+                ASK i
+***********i*****
+                ASK a
+MISS
+                ASK o
+*o*****o***io****
+                ASK y
+*o*****o***io***y
+                ASK u
+*o**u**o***iou**y
+                ASK s
+*o*su**o*s*ious*y
+                ASK n
+nonsu**ons*ious*y
+                ASK l
+nonsu**ons*iously
+                ASK c
+nonsu*consciously
+                ASK b
+nonsubconsciously
+                ANSWER nonsubconsciously
+GOOD
+*********
+                ASK e
+****e***e
+                ASK i
+**i*e***e
+                ASK r
+MISS
+                ASK l
+MISS
+                ASK t
+**ite***e
+                ASK w
+MISS
+                ASK h
+*hite***e
+                ASK s
+shite***e
+                ASK p
+shitep**e
+                ASK o
+shitepo*e
+                ASK k
+shitepoke
+                ANSWER shitepoke
+GOOD
+*******
+                ASK e
+MISS
+                ASK a
+***a***
+                ASK r
+MISS
+                ASK s
+MISS
+                ASK n
+*n*a***
+                ASK u
+MISS
+                ASK d
+*n*a**d
+                ASK c
+MISS
+                ASK t
+MISS
+                ASK l
+*n*al*d
+                ASK i
+in*alid
+                ASK v
+invalid
+                ANSWER invalid
+GOOD
