@@ -1,2 +1,4 @@
 *.py
 *.class
+log.txt
+filtered.txt
