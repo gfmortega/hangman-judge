@@ -84,6 +84,7 @@ public class Judge
         }
 
         long startStartTime = System.currentTimeMillis();
+        int old_total = 0;
         int T = words.size();
         try
         {
@@ -147,9 +148,11 @@ public class Judge
                     else
                         return new Verdict("Wrong Answer", "Only ASK and ANSWER are allowed.");
                 }
-                
+
                 long newTime = System.currentTimeMillis();
-                System.out.println("Word "+(t+1)+" solved in "+(newTime-startTime)+"ms.");
+                System.out.println("Word "+(t+1)+" solved in "+(newTime-startTime)+"ms with "+(total-old_total)+" misses");
+
+                old_total = total;
             }
         }
         catch(IOException e)
