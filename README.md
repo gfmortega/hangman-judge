@@ -2,7 +2,7 @@
 
 Judge Interactor program for a Hangman contest held for the Ateneo Senior High School Programming Varsity.  You need to have Java Runtime Environment version 8 or higher in order to run this.  To check, you can type `java -version` in the command line/terminal, and ensure that the version that appears is at least `1.8.something`.
 
-Run the player program through the command line/terminal by entering, `java -jar Judge.jar`
+Download `Judge.jar` from the repo.  Run the player program through the command line/terminal by entering `java -jar Judge.jar`.
 Then, input the your program's file name and extension when prompted.  The following file extensions are supported,
 
     File Extension          Process Run
