@@ -83,14 +83,15 @@ public class Judge
             return new Verdict("Failed","word_bank.txt is missing or contains incorrect data");
         }
 
-        long startTime = System.currentTimeMillis();
-        long startStartTime = startTime;
+        long startStartTime = System.currentTimeMillis();
         int T = words.size();
         try
         {
             p.tell(T+"");
             for(int t = 0; t < T; t++)
             {
+                long startTime = System.currentTimeMillis();
+
                 String w = words.get(t);
                 int n = w.length();
                 char[] s = new char[n];
@@ -146,9 +147,9 @@ public class Judge
                     else
                         return new Verdict("Wrong Answer", "Only ASK and ANSWER are allowed.");
                 }
+                
                 long newTime = System.currentTimeMillis();
                 System.out.println("Word "+(t+1)+" solved in "+(newTime-startTime)+"ms.");
-                startTime = newTime;
             }
         }
         catch(IOException e)
