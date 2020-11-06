@@ -14,7 +14,7 @@ Then, input the your program's file name and extension when prompted.  The follo
     
 Ensure that the player program is in the same directory as the `Judge.jar` file.
 
-Since the I/O of this problem can be quite a lot, the interaction between the Judge and the Player is recorded in the file `log.txt`.
+Since the I/O of this problem can be quite a lot, the interaction between the Judge and the Player is recorded in the file `log.txt`.  See the PDF for the specifications of the I/O.
 
 The Judge currently is set to ask all words contained in `word_bank.txt` so if you want to test against custom words, that is the file to edit.
 
